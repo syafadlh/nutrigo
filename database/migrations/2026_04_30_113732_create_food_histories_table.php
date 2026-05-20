@@ -8,8 +8,7 @@ return new class extends Migration {
         Schema::create('food_histories', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id')->constrained()->onDelete('cascade');
-            $table->foreignId('food_id')->constrained()->onDelete('cascade');
-            $table->enum('meal_type', ['breakfast','lunch','dinner','snack']);
+            $table->foreignId('food_id')->constrained('foods')->onDelete('cascade');            $table->enum('meal_type', ['breakfast','lunch','dinner','snack']);
             $table->float('calories_consumed');
             $table->date('consumed_date');
             $table->time('consumed_time')->nullable();

@@ -1,11 +1,15 @@
 <?php
 namespace App\Models;
 
+
+use App\Models\MealReminder;
+use App\Models\Notification;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class User extends Authenticatable {
+    
     use HasFactory, Notifiable;
 
     protected $fillable = [
@@ -40,7 +44,15 @@ class User extends Authenticatable {
     public function medicalNeeds()   { return $this->hasMany(UserMedicalNeed::class); }
     public function foodHistories()  { return $this->hasMany(FoodHistory::class); }
     public function recommendations(){ return $this->hasMany(MenuRecommendation::class); }
-    public function reminders()      { return $this->hasMany(MealReminder::class); }
-    public function notifications()  { return $this->hasMany(Notification::class); }
     public function articles()       { return $this->hasMany(Article::class, 'author_id'); }
+
+    public function reminders()
+    {
+        return $this->hasMany(MealReminder::class);
+    }
+
+    public function notifications()
+    {
+        return $this->hasMany(Notification::class);
+    }
 }

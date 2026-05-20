@@ -1,0 +1,251 @@
+id;calories;proteins;fat;carbohydrate;name;composition;origin
+20;57.0;0.5;0.4;12.8;Apel malang segar;sayuran;Jawa Timur
+29;98.0;3.9;2.6;14.8;Asinan Bogor sayuran;sayuran;DKI Jakarta
+35;275.0;37.4;12.2;1.3;Ayam goreng kalasan paha;daging ayam;DI Yogyakarta
+38;295.0;39.2;13.6;1.0;Ayam goreng mbok berek dada;daging ayam;Jawa Tengah
+40;246.0;37.9;9.0;0.7;Ayam goreng pasundan dada;daging ayam;Jawa Barat
+41;245.0;33.1;11.4;0.3;Ayam goreng pasundan paha;daging ayam;Jawa Barat
+43;244.0;36.7;9.2;1.0;Ayam goreng sukabumi dada;daging ayam;Jawa Barat
+44;283.0;35.7;14.3;0.5;Ayam goreng sukabumi paha;daging ayam;Jawa Barat
+62;272.0;8.7;6.7;44.1;Bakpia kue;Gandum;DI Yogyakarta
+63;76.0;4.1;2.5;9.2;Bakso ;daging sapi, Gandum;Jawa Timur
+65;280.0;8.2;10.2;39.0;Bakwan;Gandum;Jawa Tengah
+84;102.0;3.7;6.7;6.9;Bayam tumis + oncom;sayuran;Jawa Barat
+110;357.0;8.4;1.7;77.1;Beras giling var rojolele mentah;sayuran;DI Yogyakarta
+137;154.0;3.0;4.5;25.5;Bihun Goreng ;Gandum;DI Yogyakarta
+152;119.0;4.4;3.5;18.3;Bongkrek (tempe bungkil);Kedelai;Jawa Tengah
+156;249.0;3.4;0.4;58.0;Brem;sayuran;Jawa Timur
+158;141.0;15.3;3.3;12.6;Brongkos;daging sapi;Jawa Tengah
+174;60.0;1.0;60.0;13.0;Bubur ;sayuran;Jawa Tengah
+188;106.0;4.4;6.3;7.9;Buntil ;sayuran;Jawa Barat
+189;141.0;4.4;10.2;8.0;Buntil daun talas;sayuran;Jawa Barat
+202;97.0;5.8;6.3;4.2;Cap cai sayur;sayuran;Jawa Timur
+208;462.0;1.2;20.7;67.7;Ceriping getuk singkong;sayuran;Jawa Barat
+215;210.0;1.6;6.6;35.8;Combro ;sayuran;Jawa Barat
+237;42.0;1.8;0.5;9.4;Daun Beluntas;sayuran;Jawa Barat
+243;62.0;4.2;0.9;9.2;Daun gunda serang segar;sayuran;Banten
+253;59.0;4.8;1.0;11.0;Daun Katuk;sayuran;Jawa Barat
+254;53.0;5.3;0.9;9.1;Daun katuk rebus;sayuran;Jawa Barat
+255;59.0;6.4;1.0;9.9;Daun katuk segar;sayuran;Jawa Barat
+271;45.0;4.7;0.5;8.1;Daun Leunca;sayuran;Jawa Barat
+276;99.0;5.0;1.3;21.3;Daun Melinjo;sayuran;Jawa Barat
+290;37.0;2.5;0.8;6.9;Daun Poh-pohan;sayuran;Jawa Barat
+293;45.0;4.4;8.0;0.5;Daun Semanggi;sayuran;Jawa Barat
+294;45.0;4.4;0.5;8.5;Daun semanggi segar;sayuran;Jawa Barat
+319;433.0;55.0;9.0;0.0;Dendeng Daging Sapi;daging sapi;Jawa Timur
+324;395.0;3.0;5.7;81.2;Dodol;sayuran;Jawa Tengah
+328;331.0;1.9;7.6;63.8;Dodol kedondong;sayuran;DI Yogyakarta
+339;248.0;36.2;6.9;10.1;Empal (daging) Goreng masakan;daging sapi;Jawa Barat
+340;590.0;18.5;57.0;0.0;Empal Goreng;daging sapi;Jawa Barat
+341;345.0;12.0;1.5;71.5;Emping (kerupuk melinjo);sayuran;Jawa Barat
+342;403.0;10.6;2.2;85.3;Emping beras;sayuran;DI Yogyakarta
+343;355.0;17.8;4.6;60.7;Emping komak;sayuran;Jawa Timur
+345;538.0;13.6;30.3;52.6;Enting-enting gepuk hello kity;sayuran;Jawa Tengah
+346;524.0;13.3;29.2;52.0;Enting-enting gepuk kacang tanah;Kacang;Jawa Tengah
+347;565.0;18.2;38.4;36.8;Enting-enting wijen;Wijen;Jawa Tengah
+351;152.0;0.0;0.0;37.6;Es Mambo ;sayuran;DKI Jakarta
+352;44.8;0.0;0.0;11.3;Es Sirup ;sayuran;DKI Jakarta
+355;137.0;6.1;3.2;21.0;Gado-gado;sayuran;DKI Jakarta
+369;347.0;1.3;0.7;83.8;Gatot;sayuran;Jawa Tengah
+370;195.0;0.4;1.7;44.4;Geblek;sayuran;Jawa Tengah
+374;274.0;1.7;5.4;55.5;Gemblong;sayuran;Jawa Tengah
+375;407.0;6.4;28.2;32.0;Gendar goreng;sayuran;Jawa Tengah
+377;350.0;1.4;14.4;53.6;Geplak;sayuran;DI Yogyakarta
+378;462.0;3.1;24.4;57.7;Geplak jahe;sayuran;DI Yogyakarta
+380;360.0;1.3;6.4;74.3;Getuk goreng;sayuran;Jawa Tengah
+381;171.4;4.0;4.0;32.0;Getuk Lindri ;sayuran;Jawa Tengah
+382;144.0;1.1;0.4;34.1;Getuk pisang;sayuran;Jawa Tengah
+383;204.0;0.5;1.4;47.4;Getuk singkong;sayuran;Jawa Tengah
+387;53.0;1.6;1.6;8.8;Gudeg ;sayuran;DI Yogyakarta
+388;160.0;3.3;9.2;16.0;Gudeg sayur;sayuran;DI Yogyakarta
+390;386.0;3.0;10.0;76.0;Gula Kelapa;sayuran;DI Yogyakarta
+401;192.0;12.7;10.1;12.7;Gurame asem manis masakan;Ikan;Jawa Barat
+422;296.0;17.1;20.3;11.3;Ikan bandeng presto masakan;Ikan;Jawa Timur
+473;188.0;19.3;12.2;0.0;Ikan Mas goreng;Ikan;Jawa Barat
+474;209.0;15.2;11.3;11.8;Ikan Mas pepes;Ikan;Jawa Barat
+479;121.0;21.7;2.8;0.8;Ikan Mujair pepes;Ikan;Jawa Barat
+525;474.0;7.6;21.6;62.3;Intip goreng;sayuran;Jawa Tengah
+572;381.7;9.5;9.5;65.8;Jenang ;sayuran;Jawa Tengah
+573;192.0;5.4;0.3;40.7;Jengkol segar;sayuran;Jawa Barat
+576;44.0;0.8;0.3;10.9;Jeruk Garut;sayuran;Jawa Barat
+588;533.0;27.8;38.1;28.8;Kacang atom;Kacang;Jawa Timur
+594;479.0;12.7;23.2;58.9;Kacang Bogor goreng;sayuran;Jawa Timur
+595;370.0;16.0;6.0;65.0;Kacang bogor kering;sayuran;Jawa Timur
+596;161.0;7.7;2.8;27.1;Kacang Bogor rebus;sayuran;Jawa Timur
+597;165.0;7.7;3.1;27.4;Kacang bogor segar;sayuran;Jawa Timur
+641;484.0;8.8;26.1;57.7;Kacang sukro;Kacang;Jawa Timur
+642;488.0;25.6;25.6;59.6;Kacang Sukro Putih ;Kacang;Jawa Timur
+649;513.0;17.5;32.5;44.3;Kacang Tanah rempeyek;Kacang;Jawa Barat
+653;748.0;20.8;20.8;124.8;Kacang Telur ;Telur;Jawa Timur
+658;451.0;11.2;20.2;59.7;Kacang Tunggak rempeyek;sayuran;Jawa Barat
+682;146.7;5.9;5.9;19.7;Karedok ;sayuran;Jawa Barat
+683;92.0;2.2;3.3;14.1;Karedok sayur;sayuran;Jawa Barat
+690;464.0;1.2;18.6;73.0;Kecimpring singkong goreng;sayuran;Jawa Barat
+694;34.0;0.9;1.0;6.7;Kecombrang segar;sayuran;Jawa Barat
+703;214.0;5.4;5.4;40.2;Kelepon ;sayuran;DI Yogyakarta
+723;586.0;4.9;40.6;50.2;Keripik bayam;daging ayam, sayuran;Jawa Barat
+724;446.0;2.8;14.5;76.0;Keripik gadung;sayuran;Jawa Timur
+727;598.0;8.3;43.8;42.6;Keripik oncom;sayuran;Jawa Barat
+728;478.0;0.9;20.7;72.0;Keripik singkong;sayuran;Jawa Barat
+729;481.0;2.2;19.7;73.6;Keripik singkong berbumbu;sayuran;Jawa Barat
+730;581.0;12.1;40.6;41.7;Keripik tempe;Kedelai, sayuran;Jawa Tengah
+731;542.0;40.3;42.4;11.6;Keripik tempe abadi murni;Kedelai, sayuran;Jawa Tengah
+732;510.0;12.3;27.9;52.4;Keripik tempe abadi sedang;Kedelai, sayuran;Jawa Tengah
+733;529.0;20.8;31.7;40.2;Keripik tempe abadi telur;Telur, Kedelai, sayuran;Jawa Tengah
+736;350.0;0.5;0.2;85.9;Kerupuk Aci;sayuran;Jawa Barat
+739;325.0;1.8;0.4;78.5;Kerupuk kemplang  (ikan) mentah;Ikan, sayuran;Jawa Timur
+740;504.0;5.6;28.1;57.1;Kerupuk kemplang goreng;sayuran;Jawa Timur
+741;356.0;9.7;1.1;76.9;Kerupuk kemplang panggang;sayuran;Jawa Timur
+743;345.0;12.0;1.5;71.5;Kerupuk Melinjo mentah;sayuran;Jawa Barat
+744;431.0;11.1;16.2;63.0;Kerupuk Melinjo tebal goreng asin;sayuran;Jawa Barat
+745;439.0;10.0;16.4;65.7;Kerupuk Melinjo tebal goreng manis;sayuran;Jawa Barat
+746;485.0;11.5;24.5;59.1;Kerupuk Melinjo tipis goreng;sayuran;Jawa Barat
+748;46.7;17.3;17.3;81.3;Kerupuk Sayong ;sayuran;Jawa Timur
+749;340.0;30.0;30.0;52.0;Kerupuk Udang ;Seafood, sayuran;Jawa Timur
+750;359.0;17.2;68.2;332.0;Kerupuk Udang berpati;Seafood, sayuran;Jawa Timur
+751;477.0;4.7;20.5;68.5;Kerupuk udang goreng;Seafood, sayuran;Jawa Timur
+752;588.0;53.7;40.9;1.2;Kerupuk urat;sayuran;Jawa Timur
+761;9.0;0.5;0.1;1.9;Ketimun madura segar;sayuran;Jawa Timur
+762;153.0;7.9;7.7;13.0;Ketoprak;sayuran;DKI Jakarta
+765;109.6;2.6;2.6;18.6;Ketupat Tahu ;Kedelai, sayuran;DI Yogyakarta
+775;332.0;24.0;3.0;55.0;Koro Benguk biji;sayuran;Jawa Tengah
+776;141.0;10.2;1.3;23.2;Koro Benguk tempe;Kedelai, sayuran;Jawa Tengah
+780;338.0;22.2;1.5;61.0;Koro Wedus biji;sayuran;Jawa Tengah
+781;38.0;3.0;0.3;7.9;Koro Wedus buah muda;sayuran;Jawa Tengah
+782;46.0;3.0;0.3;7.9;Koro wedus polong;sayuran;Jawa Tengah
+787;542.0;40.3;42.4;11.5;Kripik Tempe Goreng ;Kedelai;Jawa Tengah
+793;186.7;1.6;1.6;39.6;Kue Apem ;sayuran;Jawa Tengah
+794;338.0;1.5;1.2;80.3;Kue bangket;sayuran;Jawa Tengah
+795;240.0;1.0;4.0;54.0;Kue Bugis ;sayuran;Jawa Tengah
+798;366.0;4.2;4.3;7.9;Kue Koya ;sayuran;DI Yogyakarta
+799;291.0;3.6;11.1;44.1;Kue lumpur;sayuran;Jawa Tengah
+800;182.0;1.0;1.0;40.4;Kue mangkok ;sayuran;Jawa Tengah
+801;126.7;0.7;0.7;57.3;Kue Pacar Cina ;sayuran;DI Yogyakarta
+802;296.0;1.4;1.4;66.4;Kue Pia ;sayuran;DI Yogyakarta
+803;304.0;5.3;7.0;54.9;Kue putu cangkir;sayuran;DI Yogyakarta
+805;393.3;2.7;2.7;79.3;Kue Satu ;sayuran;Banten
+806;380.0;1.0;1.0;92.0;Kue Semprong ;sayuran;Banten
+808;180.0;5.0;5.0;32.0;Kue Talam ;sayuran;Jawa Barat
+809;512.0;26.0;26.0;60.4;Kue Tambang ;sayuran;Jawa Tengah
+811;111.0;4.5;1.1;20.7;Kulit melinjo;sayuran;Jawa Barat
+821;166.3;2.7;3.9;29.5;Laksa ;sayuran;Banten
+829;422.0;0.9;10.8;80.4;Lanting getuk;sayuran;Jawa Tengah
+830;389.0;6.6;15.7;55.5;Lapis legit;sayuran;Jawa Timur
+835;405.0;4.8;5.1;84.9;Ledre pisang;sayuran;DI Yogyakarta
+844;221.3;3.8;3.6;43.4;Lemper ;sayuran;DI Yogyakarta
+847;33.0;1.9;0.1;7.4;Leunca buah;sayuran;Jawa Barat
+848;240.0;7.8;0.5;51.3;Leupeut Ketan ;sayuran;Jawa Barat
+854;163.3;2.8;2.2;33.0;Lopis ;sayuran;Jawa Tengah
+855;38.0;1.1;0.3;7.6;Lumai/Leunca segar;sayuran;Jawa Barat
+856;164.0;1.8;2.1;34.5;Lupis ketan;sayuran;Jawa Tengah
+861;44.0;0.7;0.2;11.2;Mangga Gedong;sayuran;Jawa Barat
+862;63.0;0.5;0.2;16.7;Mangga Golek;sayuran;Jawa Timur
+863;46.0;0.4;0.2;11.9;Mangga Harum Manis;sayuran;Jawa Timur
+864;72.0;0.8;0.2;18.7;Mangga Indramayu;sayuran;Jawa Barat
+865;56.0;0.4;0.2;14.6;Mangga Kopek;sayuran;Jawa Tengah
+867;133.0;1.0;0.1;32.1;Mangga manalagi segar;sayuran;Jawa Timur
+875;265.3;4.7;5.5;49.3;Martabak  manis;sayuran;Jawa Timur
+878;200.0;8.9;5.1;29.5;Martabak Telur ;Telur;Jawa Timur
+882;66.0;5.0;0.7;13.3;Melinjo;sayuran;Jawa Barat
+889;71.0;0.2;0.8;15.9;Mi golosor;Gandum;Jawa Barat
+892;102.0;6.2;3.9;10.5;Mie ayam;Gandum, daging ayam;Jawa Timur
+893;114.0;5.3;3.0;16.4;Mie bakso;Gandum;Jawa Timur
+895;353.0;0.3;0.0;88.0;Mie Bendo;Gandum;Jawa Tengah
+896;102.0;3.0;2.1;17.8;Mie celon;Gandum;Jawa Barat
+897;468.0;7.6;20.4;62.4;Mie Goreng ;Gandum;Jawa Tengah
+910;218.0;0.8;16.0;50.2;Misro ;sayuran;Jawa Barat
+923;276.0;3.2;3.2;30.2;Nasi Goreng ;sayuran;DKI Jakarta
+924;190.0;4.7;7.5;26.0;Nasi gurih;sayuran;DKI Jakarta
+927;155.0;10.3;4.2;19.1;Nasi rames;sayuran;DKI Jakarta
+928;120.0;2.4;0.4;26.0;Nasi tim;sayuran;Jawa Timur
+929;253.3;4.3;21.0;11.7;Nasi Uduk ;sayuran;DKI Jakarta
+931;600.0;14.0;41.7;42.0;Noga Kacang Tanah ;Kacang;DI Yogyakarta
+932;387.0;5.3;7.6;74.3;Nopia spesial;sayuran;Jawa Tengah
+934;187.0;13.0;6.0;22.6;Oncom;sayuran;Jawa Barat
+935;376.0;14.9;6.0;65.7;Oncom ampas kacang hijau;sayuran;Jawa Barat
+936;363.3;19.3;19.3;40.3;Oncom Goreng ;sayuran;Jawa Barat
+937;284.0;12.0;14.4;13.6;Oncom Hitam Goreng ;sayuran;Jawa Barat
+938;306.7;9.0;18.0;27.0;Oncom Hitam Goreng bertepung ;sayuran;Jawa Barat
+939;351.0;11.0;5.3;65.9;Oncom kacang hijau + singkong;sayuran;Jawa Barat
+940;132.0;12.7;3.8;13.7;Oncom Kacang Tanah pepes;Kacang, sayuran;Jawa Barat
+941;187.0;13.0;6.0;22.6;Oncom Kedele;Kedelai, sayuran;Jawa Barat
+942;368.0;6.8;32.0;13.2;Oncom Merah Goreng ;sayuran;Jawa Barat
+943;320.0;7.3;18.7;31.0;Oncom Merah Goreng bertepung ;sayuran;Jawa Barat
+944;40.0;2.0;2.0;3.0;Oncom Merah Sayur (tumis) ;sayuran;Jawa Barat
+945;76.0;5.2;1.8;10.6;Oncom pepes;sayuran;Jawa Barat
+946;288.6;8.3;8.9;44.3;Onde-onde ;sayuran;Jawa Timur
+947;115.0;1.5;6.0;14.0;Ongol-ongol ;sayuran;Jawa Tengah
+949;940.0;36.0;42.0;104.0;Opak Singkong ;sayuran;Jawa Barat
+964;307.0;4.5;13.3;42.4;Pastel;Gandum;DKI Jakarta
+982;76.0;5.2;1.8;10.6;Pepea oncom ampas tahu;Kedelai, sayuran;Jawa Barat
+984;142.0;10.4;2.0;22.0;Pete Segar;sayuran;Jawa Barat
+986;161.0;20.0;0.2;24.0;Petis Ikan;Ikan;Jawa Timur
+987;220.0;15.0;0.1;40.0;Petis Udang;Seafood;Jawa Timur
+988;345.0;23.8;1.4;59.3;Petis udang kering;Seafood;Jawa Timur
+989;220.0;15.0;0.9;38.0;Petis udang pasta;Seafood, Gandum;Jawa Timur
+1018;33.0;4.5;0.4;2.8;Pucuk lumai/daun leunca segar;sayuran;Jawa Barat
+1026;200.0;1.0;2.4;43.8;Putu Mayang ;sayuran;DI Yogyakarta
+1036;60.0;5.4;2.5;4.0;Rawon masakan;daging sapi;Jawa Timur
+1042;451.0;11.2;20.2;59.7;Rempeyek kacang tolo;Kacang, sayuran;Jawa Barat
+1043;497.0;17.0;27.6;50.8;Rempeyek kacang uci;Kacang;Jawa Tengah
+1047;335.0;5.3;3.5;70.5;Risoles ;Gandum;DKI Jakarta
+1048;341.0;5.5;16.2;43.3;Roti boong;Gandum;Jawa Tengah
+1049;350.0;7.5;2.0;75.5;Roti Gambang ;Gandum;DKI Jakarta
+1052;153.0;11.3;8.4;8.0;Rujak cingur;sayuran;Jawa Timur
+1070;87.0;0.8;0.4;20.1;Salak pondoh segar;sayuran;DI Yogyakarta
+1071;281.0;2.4;0.7;66.1;Sale pisang siam;sayuran;Jawa Timur
+1079;301.0;55.0;9.0;0.0;Sapi daging dendeng mentah;daging sapi;Jawa Timur
+1099;283.0;12.1;16.8;20.9;Sate Bandeng;Ikan;Banten
+1100;110.0;15.5;0.5;11.5;Sate Kulit ;daging sapi;Jawa Barat
+1103;126.7;14.0;7.3;1.3;Sate Usus ;daging sapi;Jawa Timur
+1112;29.0;0.7;0.6;5.0;Sayur asem;sayuran;DKI Jakarta
+1119;27.0;1.3;2.0;1.0;Sayur sop;sayuran;DKI Jakarta
+1127;192.5;4.5;6.0;30.3;Semur Jengkol ;sayuran;DKI Jakarta
+1132;478.0;2.5;21.2;69.2;Serimping talas kebumen;sayuran;Jawa Tengah
+1139;173.0;0.5;0.1;42.5;Singkong tape;sayuran;Jawa Barat
+1140;95.3;4.4;2.2;14.4;Siomay ;Ikan;DKI Jakarta
+1143;71.0;7.5;3.6;2.2;Sop buntut masakan;daging sapi;DKI Jakarta
+1151;42.0;3.9;1.7;2.8;Soto bandung masakan;daging sapi;Jawa Barat
+1153;135.0;2.5;8.8;11.5;Soto betawi masakan;daging sapi;DKI Jakarta
+1154;127.5;2.6;9.4;8.3;Soto dengan Daging;daging sapi;DKI Jakarta
+1156;38.0;2.6;2.3;1.8;Soto kudus masakan;sayuran;Jawa Tengah
+1157;60.0;3.5;4.5;1.3;Soto madura masakan;daging sapi, sayuran;Jawa Timur
+1159;94.0;3.0;6.8;5.1;Soto pekalongan masakan;sayuran;Jawa Tengah
+1160;75.0;3.6;5.2;3.5;Soto pemalang masakan;sayuran;Jawa Tengah
+1161;80.0;3.2;3.5;9.0;Soto sukaraja masakan;sayuran;Jawa Barat
+1162;86.0;2.3;8.5;0.0;Soto sulung masakan;sayuran;Jawa Timur
+1185;68.0;7.8;4.6;1.6;Tahu;Kedelai;Jawa Timur
+1186;115.0;9.7;8.5;2.5;Tahu goreng;Kedelai;Jawa Timur
+1187;328.0;12.6;19.9;24.6;Tahu telur;Telur, Kedelai;Jawa Timur
+1189;120.0;1.5;0.3;28.2;Talas bogor kukus;sayuran;Jawa Barat
+1195;88.0;3.2;2.1;14.0;Taoge goreng;sayuran;Jawa Timur
+1196;76.0;9.0;2.6;6.4;Taoge kacang kedelai segar;Kedelai, sayuran;Jawa Timur
+1197;28.0;3.0;0.8;4.0;Taoge seduh;sayuran;Jawa Timur
+1198;34.0;3.7;1.2;4.3;Taoge segar;sayuran;Jawa Timur
+1202;172.0;3.0;0.5;37.5;Tapai ketan putih;sayuran;DI Yogyakarta
+1203;169.0;1.4;0.3;40.2;Tapai singkong;sayuran;Jawa Timur
+1231;73.0;5.7;1.3;4.2;Tempe Gembus;Kedelai;Jawa Tengah
+1232;76.0;6.8;0.7;10.6;Tempe gembus yogya;Kedelai;DI Yogyakarta
+1233;328.0;18.4;23.2;12.8;Tempe Goreng ;Kedelai;Jawa Timur
+1236;143.0;12.0;5.5;11.4;Tempe kedelai + jagung;Kedelai, sayuran;Jawa Tengah
+1237;350.0;24.5;26.6;10.4;Tempe kedelai murni goreng;Kedelai;Jawa Timur
+1238;201.0;20.8;8.8;13.5;Tempe kedelai murni mentah;Kedelai;Jawa Timur
+1239;141.0;10.2;1.3;23.2;Tempe koro benguk;Kedelai, sayuran;Jawa Tengah
+1242;150.0;14.0;7.7;9.1;Tempe pasar segar;Kedelai, sayuran;Jawa Timur
+1243;336.0;20.0;28.0;7.8;Tempe pasar goreng;Kedelai;Jawa Timur
+1244;240.0;6.0;2.7;49.3;Tempe Sayur ;Kedelai, sayuran;Jawa Timur
+1294;353.0;2.4;1.1;83.4;Tiwul  ;sayuran;Jawa Tengah
+1295;395.0;3.2;8.5;76.5;Tiwul Instan;sayuran;Jawa Tengah
+1296;392.0;5.4;28.5;28.4;Toge -Tahu makanan;Kedelai, sayuran;Jawa Timur
+1297;93.6;4.4;1.8;15.1;Toge Goreng ;sayuran;Jawa Timur
+1298;23.0;2.9;0.2;4.1;Toge kacang ijo;sayuran;Jawa Timur
+1299;35.0;5.0;0.2;5.8;Toge kacang tunggak;sayuran;Jawa Timur
+1300;67.0;9.0;2.6;6.4;Toge kedelai;Kedelai, sayuran;Jawa Timur
+1301;28.0;3.0;0.8;4.0;Toge seduh;sayuran;Jawa Timur
+1306;189.0;11.3;15.7;0.6;Tumis bandeng;Ikan;Jawa Timur
+1308;186.0;1.9;0.2;44.3;Ubi Cilembu;sayuran;Jawa Barat
+1320;82.0;5.8;1.3;11.7;Uceng/ bunga melinjo segar;sayuran;Jawa Barat
+1334;303.0;6.3;2.7;63.3;Wajit camilan;sayuran;DI Yogyakarta
+1336;424.0;1.3;10.7;80.7;Widaran;sayuran;Jawa Tengah
+1338;355.0;3.2;15.1;51.4;Wingko babat;sayuran;Jawa Tengah
+1344;254.0;3.0;1.1;58.1;Yangko;sayuran;DI Yogyakarta

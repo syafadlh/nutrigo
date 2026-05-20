@@ -1,0 +1,1346 @@
+Sex,Age,Height,Weight,BMI,id,calories,proteins,fat,carbohydrate,name,composition
+M,23.0,172.0,69.97,23.65,1,280.0,9.2,28.4,0.0,Abon ,daging sapi
+M,22.0,184.0,78.59,23.21,2,513.0,23.7,37.0,21.3,Abon haruwan,Ikan
+M,22.0,168.0,69.85,24.75,3,0.0,0.0,0.2,0.0,Agar-agar,sayuran
+M,26.0,184.0,83.8,24.75,4,45.0,1.1,0.4,10.8,Akar tonjong segar,sayuran
+M,24.0,181.0,83.58,25.51,5,37.0,4.4,0.5,3.8,Aletoge segar,Kacang
+M,24.0,190.0,95.37,26.42,6,85.0,0.9,6.5,7.7,Alpukat segar,sayuran
+M,26.0,177.0,82.1,26.21,7,96.0,3.7,0.6,19.1,Ampas kacang hijau,Kacang
+M,25.0,184.0,79.83,23.58,8,414.0,26.6,18.3,41.3,Ampas Tahu,Kedelai
+M,25.0,188.0,86.64,24.51,9,75.0,4.1,2.1,10.7,Ampas tahu kukus,Kedelai
+M,23.0,187.0,89.93,25.72,10,67.0,5.0,2.1,8.1,Ampas tahu mentah,Kedelai
+M,26.0,189.0,84.48,23.65,11,184.0,18.8,14.0,0.0,Anak sapi daging gemuk segar,daging sapi
+M,27.0,193.0,97.98,26.3,12,174.0,19.6,10.0,0.0,Anak sapi daging kurus segar,daging sapi
+M,32.0,177.0,81.87,26.13,13,190.0,19.1,12.0,0.0,Anak sapi daging sedang segar,daging sapi
+M,30.0,181.0,93.1,28.42,14,99.0,4.6,1.0,18.0,Andaliman segar,sayuran
+M,35.0,177.0,85.16,27.18,15,25.0,1.6,0.2,5.3,Andewi,sayuran
+M,35.0,168.0,73.82,26.16,16,30.0,0.5,0.2,6.8,Anggur hutan segar,sayuran
+M,34.0,180.0,88.79,27.4,17,354.0,16.4,31.5,0.0,Angsa,daging ayam
+M,32.0,180.0,94.92,29.3,18,126.0,3.4,7.9,10.3,Anyang sayur,sayuran
+M,28.0,172.0,83.35,28.17,19,58.0,0.3,0.4,14.9,Apel,sayuran
+M,33.0,187.0,96.05,27.47,20,57.0,0.5,0.4,12.8,Apel malang segar,sayuran
+M,28.0,173.0,81.19,27.13,21,37.0,0.8,0.5,8.3,Arbei,sayuran
+M,28.0,177.0,90.95,29.03,22,113.0,0.9,7.2,11.2,Ares sayur,sayuran
+M,31.0,173.0,63.62,21.26,23,102.0,1.0,0.2,24.1,Arrowroot segar,sayuran
+M,32.0,178.0,67.47,21.29,24,277.0,2.4,25.0,10.7,Arwan sirsir,Ikan
+M,28.0,172.0,68.61,23.19,25,75.0,0.2,1.1,16.1,Asam kandis segar,sayuran
+M,27.0,182.0,72.24,21.81,26,239.0,2.8,0.6,62.5,Asam masak di pohon,sayuran
+M,34.0,171.0,59.65,20.4,27,135.0,0.8,0.4,32.1,Asam payak segar,sayuran
+M,31.0,171.0,67.13,22.96,28,261.0,0.9,1.6,63.3,Asan kandis kering,sayuran
+M,27.0,164.0,60.44,22.47,29,98.0,3.9,2.6,14.8,Asinan Bogor sayuran,sayuran
+M,29.0,175.0,72.92,23.81,30,302.0,18.2,25.0,0.0,Ayam,daging ayam
+M,32.0,187.0,82.55,23.61,31,297.0,35.9,15.2,1.6,Ayam  goreng Kentuckysayap,"daging ayam, Gandum"
+M,29.0,181.0,72.69,22.19,32,270.0,32.3,11.2,9.9,Ayam ampela goreng,daging ayam
+M,27.0,181.0,76.2,23.26,33,295.0,34.0,16.0,1.5,Ayam goreng church texa sayap,"daging ayam, Gandum"
+M,41.0,180.0,99.11,30.59,34,338.0,35.2,20.6,0.4,Ayam goreng church texas dada,"daging ayam, Gandum"
+M,41.0,187.0,112.15,32.07,35,275.0,37.4,12.2,1.3,Ayam goreng kalasan paha,daging ayam
+M,49.0,165.0,86.98,31.95,36,298.0,34.2,16.8,0.1,Ayam goreng kentucky dada,"daging ayam, Gandum"
+M,40.0,178.0,91.74,28.95,37,286.0,32.1,16.1,1.1,Ayam goreng Kentucky paha,"daging ayam, Gandum"
+M,50.0,173.0,89.25,29.82,38,295.0,39.2,13.6,1.0,Ayam goreng mbok berek dada,daging ayam
+M,46.0,184.0,164.72,48.65,39,287.0,31.0,15.7,1.7,Ayam goreng paha,daging ayam
+M,50.0,170.0,92.08,31.86,40,246.0,37.9,9.0,0.7,Ayam goreng pasundan dada,daging ayam
+M,45.0,175.0,119.18,38.92,41,245.0,33.1,11.4,0.3,Ayam goreng pasundan paha,daging ayam
+M,44.0,75.0,92.99,165.32,42,295.0,37.4,14.7,0.6,Ayam goreng pioneer dada,"daging ayam, Gandum"
+M,48.0,178.0,98.43,31.07,43,244.0,36.7,9.2,1.0,Ayam goreng sukabumi dada,daging ayam
+M,41.0,182.0,96.16,29.03,44,283.0,35.7,14.3,0.5,Ayam goreng sukabumi paha,daging ayam
+M,39.0,173.0,56.81,18.98,45,261.0,27.4,16.1,1.6,Ayam hati segar,daging ayam
+M,43.0,186.0,74.5,21.53,46,264.0,18.2,20.1,2.7,Ayam taliwang masakan,daging ayam
+M,40.0,171.0,60.56,20.71,47,473.0,45.2,26.3,13.9,Ayam usus goreng,daging ayam
+M,39.0,181.0,67.36,20.56,48,113.0,17.6,4.2,0.0,Babat,daging sapi
+M,45.0,174.0,61.58,20.34,49,453.0,11.9,45.0,0.0,Babi daging gemuk segar,daging babi
+M,47.0,170.0,57.83,20.01,50,371.0,14.1,35.0,0.0,Babi daging kurus segar,daging babi
+M,47.0,184.0,71.78,21.2,51,110.0,16.3,4.6,0.8,Babi ginjal segar,daging babi
+M,40.0,175.0,63.16,20.62,52,129.0,19.7,4.8,1.7,Babi hati segar,daging babi
+M,51.0,172.0,62.26,21.05,53,491.0,24.6,16.3,0.2,Babi hutan masak rica masakan,daging babi
+M,49.0,187.0,69.29,19.81,54,102.9,3.3,2.7,16.3,Bacang,sayuran
+M,42.0,171.0,61.8,21.13,55,450.0,3.2,13.9,78.1,Bagea kelapa asin,sayuran
+M,54.0,183.0,89.81,26.82,56,452.0,1.3,13.8,80.6,Bagea kelapa manis,sayuran
+M,58.0,173.0,82.33,27.51,57,529.0,3.2,29.1,63.6,Bagea kenari asin,sayuran
+M,62.0,177.0,91.29,29.14,58,523.0,3.2,28.2,64.2,Bagea kenari manis,sayuran
+M,54.0,180.0,91.85,28.35,59,416.0,6.5,9.4,76.3,Bagea kw 1,sayuran
+M,61.0,167.0,81.53,29.23,60,382.0,0.3,3.5,87.2,Bagea kw 2,sayuran
+M,62.0,186.0,97.98,28.32,61,129.0,1.9,6.6,15.6,Baje,sayuran
+M,56.0,174.0,81.08,26.78,62,272.0,8.7,6.7,44.1,Bakpia kue,Gandum
+M,54.0,178.0,87.66,27.67,63,76.0,4.1,2.5,9.2,Bakso ,"daging sapi, Gandum"
+M,61.0,170.0,80.74,27.94,64,27.0,2.0,0.2,4.2,Bakung segar,sayuran
+M,57.0,178.0,93.21,29.42,65,280.0,8.2,10.2,39.0,Bakwan,Gandum
+M,55.0,171.0,83.24,28.47,66,13.0,0.4,0.2,3.0,Baligo,sayuran
+M,54.0,180.0,68.72,21.21,67,190.0,3.3,0.3,43.5,Bantal,sayuran
+M,55.0,182.0,70.19,21.19,68,159.0,3.1,5.8,23.5,Barongko,sayuran
+M,54.0,176.0,70.42,22.73,69,137.0,4.3,4.8,19.1,Batang Tading,sayuran
+M,55.0,182.0,71.1,21.46,70,107.0,2.2,2.2,19.6,Batar daan,sayuran
+M,62.0,182.0,75.98,22.94,71,76.0,1.1,0.9,16.0,Batatas gembili segar,sayuran
+M,55.0,175.0,66.57,21.74,72,110.0,1.4,1.1,23.4,Batatas kelapa ubi bakar,sayuran
+M,56.0,187.0,72.92,20.85,73,92.0,1.2,0.3,21.0,Batatas kelapa ubi kukus,sayuran
+M,55.0,163.0,56.7,21.34,74,89.0,1.1,0.1,21.0,Batatas kelapa ubi segar,sayuran
+M,61.0,167.0,64.86,23.26,75,182.0,2.4,0.4,42.2,Batatas tali ubi rebus,sayuran
+M,61.0,171.0,67.25,23.0,76,45.0,1.4,0.2,10.3,Bawang Bombay,sayuran
+M,57.0,177.0,73.71,23.53,77,39.0,1.5,0.3,0.2,Bawang Merah,sayuran
+M,69.0,174.0,80.63,26.63,78,95.0,4.5,0.2,23.1,Bawang Putih,sayuran
+M,81.0,178.0,73.14,23.08,79,30.0,1.3,0.7,5.8,Bayam kukus,sayuran
+M,66.0,176.0,77.68,25.08,80,51.0,4.6,0.5,10.0,Bayam Merah,sayuran
+M,67.0,172.0,74.28,25.11,81,41.0,2.2,0.8,6.3,Bayam merah segar,sayuran
+M,64.0,171.0,68.15,23.31,82,23.0,1.2,0.6,3.7,Bayam rebus,sayuran
+M,64.0,185.0,86.3,25.22,83,36.0,3.5,0.5,6.5,Bayam segar,sayuran
+M,70.0,178.0,77.45,24.44,84,102.0,3.7,6.7,6.9,Bayam tumis + oncom,sayuran
+M,72.0,176.0,76.2,24.6,85,48.0,1.4,4.2,2.6,Bayam tumis bersantan,sayuran
+M,67.0,171.0,75.75,25.91,86,326.0,16.0,28.6,0.0,Bebek (itik),daging ayam
+M,72.0,171.0,71.55,24.47,87,303.0,11.3,27.0,3.7,Bebek alabio daging segar,daging ayam
+M,64.0,167.0,72.58,26.02,88,300.0,24.0,20.7,4.5,Bebek daging goreng,daging ayam
+M,46.0,184.0,80.17,23.68,89,65.0,1.1,5.2,3.5,Beberuk,sayuran
+M,48.0,185.0,79.83,23.33,90,258.0,10.6,9.5,32.5,Beef burger,"daging sapi, Gandum"
+M,46.0,178.0,80.29,25.34,91,151.0,8.6,3.1,22.3,Beef teriyaki masakan,daging sapi
+M,44.0,177.0,81.53,26.02,92,132.0,9.8,1.1,20.7,Beef yakiniku masakan,daging sapi
+M,47.0,179.0,74.96,23.4,93,116.0,11.9,4.9,6.1,Bekasam,Ikan
+M,46.0,182.0,87.32,26.36,94,78.0,11.4,2.0,3.6,Bekasang,Ikan
+M,47.0,189.0,83.58,23.4,95,131.0,20.2,4.3,2.8,Belibis daging segar,daging ayam
+M,53.0,197.0,101.83,26.24,96,36.0,0.4,0.4,8.8,Belimbing,sayuran
+M,38.0,186.0,85.62,24.75,97,145.0,1.2,0.4,34.2,Belitung talas kukus,sayuran
+M,50.0,169.0,73.71,25.81,98,417.0,25.9,19.4,32.0,Belut goreng,Ikan
+M,46.0,173.0,70.99,23.72,99,70.0,14.6,0.8,1.0,Belut segar,Ikan
+M,47.0,183.0,89.36,26.68,100,93.0,12.8,1.5,6.1,Belutlaut segar,Ikan
+M,49.0,187.0,90.04,25.75,101,55.0,1.4,0.2,12.8,Bengkuang,sayuran
+M,48.0,183.0,78.81,23.53,102,98.0,1.6,0.7,20.9,Bentul (Komba)  talas segar,sayuran
+M,41.0,181.0,78.36,23.92,103,71.0,2.3,0.3,15.4,Bentul talas kukus,sayuran
+M,49.0,187.0,89.25,25.52,104,350.0,2.7,1.1,82.3,Beras Cerdas,sayuran
+M,43.0,176.0,80.29,25.92,105,364.0,3.4,0.7,86.3,Beras ganyong,sayuran
+M,43.0,174.0,75.07,24.8,106,360.0,6.8,0.7,78.9,Beras Giling,sayuran
+M,43.0,187.0,90.83,25.97,107,178.0,2.1,0.1,40.6,Beras Giling masak (nasi) ,sayuran
+M,52.0,189.0,92.19,25.81,108,357.0,8.4,1.7,77.1,Beras giling mentah,sayuran
+M,43.0,192.0,88.0,23.87,109,369.0,9.5,1.4,77.1,Beras giling var pelita mentah,sayuran
+M,40.0,176.0,76.43,24.67,110,357.0,8.4,1.7,77.1,Beras giling var rojolele mentah,sayuran
+M,43.0,174.0,77.45,25.58,111,351.0,8.0,1.3,76.9,Beras hitam mentah,sayuran
+M,43.0,178.0,83.12,26.23,112,358.0,5.5,0.1,82.7,Beras jagung kuning kering mentah,sayuran
+M,47.0,178.0,80.85,25.52,113,307.0,4.8,0.1,71.8,Beras jagung putih kering mentah,sayuran
+M,42.0,178.0,73.94,23.34,114,356.0,7.0,0.7,78.0,Beras Ketan Hitam,sayuran
+M,48.0,182.0,79.49,24.0,115,181.0,4.0,1.2,37.3,Beras Ketan Hitam kukus,sayuran
+M,40.0,176.0,71.67,23.14,116,166.0,3.8,1.0,34.4,Beras Ketan Hitam tape,sayuran
+M,48.0,185.0,80.4,23.49,117,360.0,8.0,2.3,74.5,Beras Ketan Hitam tumbuk,sayuran
+M,51.0,183.0,81.19,24.24,118,360.0,8.0,2.3,74.5,Beras ketan hitam tumbuk mentah,sayuran
+M,40.0,188.0,86.64,24.51,119,362.0,6.7,0.7,79.4,Beras Ketan Putih,sayuran
+M,44.0,184.0,85.05,25.12,120,163.0,3.0,0.4,35.7,Beras Ketan Putih kukus,sayuran
+M,52.0,189.0,93.67,26.22,121,172.0,3.0,0.5,37.5,Beras Ketan Putih tape,sayuran
+M,44.0,182.0,84.03,25.37,122,361.0,7.4,0.8,78.4,Beras Ketan Putih tumbuk,sayuran
+M,40.0,175.0,72.69,23.74,123,361.0,7.4,0.8,78.4,Beras ketan putih tumbuk mentah,sayuran
+M,47.0,170.0,68.72,23.78,124,376.0,7.5,3.8,78.0,Beras ladang mentah,sayuran
+M,50.0,169.0,73.03,25.57,125,339.0,7.7,4.4,73.0,Beras Menir,sayuran
+M,46.0,170.0,75.75,26.21,126,362.0,7.7,4.4,73.0,Beras menir mentah,sayuran
+M,42.0,175.0,80.51,26.29,127,359.0,7.5,0.9,77.6,Beras Merah tumbuk,sayuran
+M,43.0,172.0,69.06,23.34,128,364.0,6.8,0.6,80.1,Beras Parboiled,sayuran
+M,40.0,186.0,87.2,25.21,129,353.0,6.8,0.6,80.0,Beras parboiled,sayuran
+M,42.0,177.0,74.96,23.93,130,335.0,7.4,1.9,76.2,Beras Pecah Kulit,sayuran
+M,49.0,182.0,77.91,23.52,131,363.0,7.6,1.1,78.3,Beras Setengah Giling,sayuran
+M,40.0,179.0,77.68,24.24,132,344.0,1.1,0.2,28.3,Beras Siger,sayuran
+M,47.0,186.0,89.36,25.83,133,354.0,7.8,0.4,79.9,Beras tumbuk mentah,sayuran
+M,50.0,170.0,71.21,24.64,134,352.0,7.3,0.9,76.2,Beras tumbuk merah mentah,sayuran
+M,41.0,177.0,76.32,24.36,135,145.0,16.3,7.0,4.1,Betok wadi masakan,Ikan
+M,44.0,177.0,84.37,26.93,136,360.0,4.7,0.1,82.1,Bihun,Gandum
+M,39.0,180.0,75.64,23.35,137,154.0,3.0,4.5,25.5,Bihun Goreng ,Gandum
+M,43.0,188.0,85.16,24.09,138,381.0,6.1,3.9,80.3,Bihun goreng instan,Gandum
+M,40.0,181.0,76.32,23.3,139,354.0,0.5,0.3,87.4,Bihun Jagung mentah,sayuran
+M,49.0,191.0,96.5,26.45,140,348.0,4.7,0.1,82.1,Bihun mentah,Gandum
+M,40.0,180.0,80.17,24.74,141,562.0,21.2,49.6,23.6,Biji Jambu Mete,sayuran
+M,40.0,177.0,78.59,25.09,142,629.0,21.5,56.6,19.8,Biji Jambu Mete goreng,sayuran
+M,52.0,172.0,75.75,25.61,143,262.0,2.3,5.4,51.1,Biji nangka/Biji salak,sayuran
+M,23.0,184.0,72.46,21.4,144,199.0,2.1,1.5,44.4,Bika ambon,Telur
+M,23.0,197.0,85.34,21.99,145,225.7,3.0,0.3,52.9,Bika Ambon ,Telur
+M,24.0,180.0,70.76,21.84,146,48.0,0.6,0.0,4.4,Bir (4% alkohol),sayuran
+M,24.0,185.0,94.57,27.63,147,458.0,6.9,14.4,75.1,Biskuit,Gandum
+M,25.0,177.0,93.67,29.9,148,42.0,1.6,0.1,9.6,Bit,sayuran
+M,25.0,184.0,65.2,19.26,149,51.0,0.3,0.1,12.1,Biwah segar,sayuran
+M,26.0,178.0,101.15,31.92,150,43.0,2.6,0.0,11.6,Bonggol Pisang,sayuran
+M,26.0,175.0,69.06,22.55,151,245.0,3.4,0.0,66.2,Bonggol Pisang kering,sayuran
+M,26.0,189.0,109.66,30.7,152,119.0,4.4,3.5,18.3,Bongkrek (tempe bungkil),Kedelai
+M,27.0,184.0,66.23,19.56,153,23.0,1.0,0.8,7.2,Boros Kunci,sayuran
+M,27.0,171.0,71.1,24.32,154,22.0,1.0,0.3,4.7,Boros Laja (lengkuas),sayuran
+M,27.0,187.0,90.83,25.97,155,186.0,11.7,9.7,13.0,Botok lamtoro,sayuran
+M,28.0,191.0,77.79,21.32,156,249.0,3.4,0.4,58.0,Brem,sayuran
+M,28.0,175.0,93.33,30.48,157,400.0,4.0,0.7,95.3,Brondong ,sayuran
+M,28.0,184.0,82.78,24.45,158,141.0,15.3,3.3,12.6,Brongkos,daging sapi
+M,30.0,175.0,61.92,20.22,159,23.0,0.8,0.2,5.2,Buah Atung,sayuran
+M,31.0,182.0,80.4,24.27,160,110.0,1.4,2.1,21.4,Buah kelenting segar,sayuran
+M,31.0,184.0,68.61,20.27,161,38.0,1.5,0.2,7.5,Buah kelor,sayuran
+M,33.0,185.0,88.91,25.98,162,264.0,4.0,1.1,59.6,Buah kom segar,sayuran
+M,33.0,175.0,83.58,27.29,163,39.0,0.7,0.2,9.7,Buah Mentega (bisbul),sayuran
+M,34.0,179.0,63.5,19.82,164,87.0,2.6,2.7,13.1,Buah merah,sayuran
+M,34.0,183.0,99.22,29.63,165,71.0,1.7,3.1,9.1,Buah Naga Merah segar,sayuran
+M,35.0,187.0,98.43,28.15,166,56.0,0.8,1.0,10.9,Buah Naga Putih segar,sayuran
+M,35.0,173.0,75.41,25.2,167,55.0,1.2,0.1,12.2,Buah negri segar,sayuran
+M,35.0,184.0,101.95,30.11,168,101.0,1.7,0.6,25.2,Buah Nona,sayuran
+M,35.0,177.0,103.53,33.05,169,78.0,0.6,0.3,18.2,Buah rotan segar,sayuran
+M,35.0,177.0,78.36,25.01,170,113.0,0.8,0.3,26.8,Buah rukam segar,sayuran
+M,35.0,172.0,69.06,23.34,171,29.0,2.1,0.7,3.6,Buah ruruhi segar,sayuran
+M,35.0,166.0,57.04,20.7,172,67.0,0.4,0.2,15.9,Buah tuppa segar,sayuran
+M,35.0,180.0,80.4,24.81,173,365.0,49.6,4.8,30.8,Buaya daging dendeng mentah,daging sapi
+M,36.0,182.0,79.95,24.14,174,60.0,1.0,60.0,13.0,Bubur ,sayuran
+M,36.0,182.0,102.85,31.05,175,167.0,0.2,4.0,33.0,Bubur sagu,sayuran
+M,37.0,176.0,65.88,21.27,176,156.0,2.3,0.2,15.6,Bubur tinotuan (Manado),sayuran
+M,37.0,170.0,68.49,23.7,177,72.0,11.4,4.9,1.4,Bulgogi masakan,daging sapi
+M,37.0,182.0,109.43,33.04,178,212.0,16.9,0.2,47.6,Bulung Jajan,sayuran
+M,38.0,176.0,84.94,27.42,179,237.0,14.7,0.2,56.0,Bulung Sangu,sayuran
+M,39.0,189.0,106.48,29.81,180,35.0,2.4,0.2,7.7,Buncis,sayuran
+M,39.0,189.0,99.45,27.84,181,60.0,5.1,0.5,8.5,Buncis asam,sayuran
+M,40.0,173.0,53.75,17.96,182,30.0,2.2,0.2,6.4,Buncis rebus,sayuran
+M,40.0,171.0,66.11,22.61,183,45.0,2.6,0.3,8.1,Bunga pepaya segar,sayuran
+M,40.0,177.0,72.24,23.06,184,42.0,2.0,1.1,6.1,Bunga turi segar,sayuran
+M,40.0,189.0,77.34,21.65,185,333.0,29.3,3.3,50.0,Bungkil Biji Karet,Kacang
+M,40.0,182.0,75.98,22.94,186,336.0,37.4,13.0,30.5,Bungkil Kacang Tanah,Kacang
+M,41.0,189.0,105.57,29.55,187,368.0,23.0,15.0,40.0,Bungkil Kelapa,sayuran
+M,41.0,183.0,95.48,28.51,188,106.0,4.4,6.3,7.9,Buntil ,sayuran
+M,41.0,184.0,91.74,27.1,189,141.0,4.4,10.2,8.0,Buntil daun talas,sayuran
+M,41.0,173.0,83.92,28.04,190,125.7,3.3,1.9,23.9,Buras ,sayuran
+M,41.0,176.0,69.4,22.4,191,281.0,37.5,0.3,32.1,Burung sarang segar,daging ayam
+M,42.0,193.0,110.79,29.74,192,38.0,1.6,0.8,6.3,Cabai gembor merah segar,sayuran
+M,42.0,179.0,87.77,27.39,193,26.0,0.7,0.3,5.2,Cabai hijau segar,sayuran
+M,42.0,190.0,101.95,28.24,194,367.0,15.9,6.2,61.8,Cabai merah kering,sayuran
+M,42.0,185.0,73.82,21.57,195,36.0,1.0,0.3,7.3,Cabai merah segar,sayuran
+M,42.0,173.0,81.65,27.28,196,120.0,4.7,2.4,19.9,Cabai rawit segar,sayuran
+M,42.0,175.0,70.87,23.14,197,20.0,1.7,0.4,3.4,Caisin segar,sayuran
+M,42.0,182.0,76.2,23.0,198,155.0,20.1,3.8,10.2,Cakalang asar (asap papua),Ikan
+M,42.0,185.0,75.86,22.17,199,323.0,4.9,11.5,50.1,Cake tape,Gandum
+M,43.0,171.0,77.45,26.49,200,102.0,3.2,6.0,8.7,Cammetutu,sayuran
+M,43.0,178.0,80.85,25.52,201,366.0,11.0,3.3,73.0,Cantel mentah,sayuran
+M,43.0,176.0,68.04,21.97,202,97.0,5.8,6.3,4.2,Cap cai sayur,sayuran
+M,43.0,182.0,90.95,27.46,203,24.0,1.9,0.2,3.7,Carica papaya segar,sayuran
+M,44.0,188.0,83.46,23.61,204,460.0,0.8,18.7,17.2,Cassavastick,sayuran
+M,44.0,177.0,101.15,32.29,205,116.0,3.0,0.4,28.6,Cempedak,sayuran
+M,44.0,185.0,94.69,27.67,206,330.0,5.2,8.9,57.4,Cengkeh kering,sayuran
+M,44.0,166.0,75.3,27.33,207,332.0,11.0,3.3,73.0,Centel,sayuran
+M,47.0,184.0,88.45,26.13,208,462.0,1.2,20.7,67.7,Ceriping getuk singkong,sayuran
+M,47.0,178.0,72.8,22.98,209,168.0,13.0,9.6,7.5,Chicken teriyaki masakan,daging ayam
+M,47.0,180.0,72.46,22.36,210,143.0,9.8,1.4,22.8,Chikiniku masakan,sayuran
+M,49.0,173.0,63.73,21.29,211,311.0,8.0,4.0,48.9,Coklat bubuk,sayuran
+M,49.0,189.0,98.09,27.46,212,472.0,2.0,29.8,62.7,Coklat Manis batang,sayuran
+M,49.0,182.0,76.32,23.04,213,504.0,5.5,52.9,29.2,Coklat Pahit batang,sayuran
+M,50.0,180.0,88.34,27.27,214,381.0,9.0,35.0,53.6,Coklat Susu batang,"Susu sapi, sayuran"
+M,50.0,185.0,78.36,22.9,215,210.0,1.6,6.6,35.8,Combro ,sayuran
+M,51.0,163.0,99.34,37.39,216,241.0,16.0,25.0,0.0,Corned Beef,daging sapi
+M,51.0,177.0,67.7,21.61,217,96.0,6.8,5.9,3.8,Coto mangkasara kuda masakan,daging sapi
+M,51.0,178.0,70.08,22.12,218,84.0,6.0,6.0,1.4,Coto mangkasara sapi masakan,daging sapi
+M,52.0,182.0,90.38,27.29,219,145.0,27.0,2.3,0.0,Cue Selar Kuning,Ikan
+M,53.0,176.0,70.08,22.62,220,12.0,0.1,0.1,5.0,Cuka,sayuran
+M,54.0,179.0,69.51,21.69,221,265.0,40.6,10.1,0.0,Cumi-cumi goreng,"Seafood, Gandum"
+M,54.0,184.0,104.33,30.82,222,75.0,16.1,0.7,0.1,Cumi-cumi segar,"Seafood, Gandum, sayuran"
+M,54.0,171.0,73.37,25.09,223,190.0,19.1,12.0,0.0,Daging Anak Sapi,daging sapi
+M,55.0,171.0,64.52,22.06,224,191.0,32.0,6.0,0.0,Daging Asap,daging sapi
+M,55.0,175.0,81.53,26.62,225,457.0,11.6,45.0,0.0,Daging Babi Gemuk,daging babi
+M,55.0,170.0,57.38,19.85,226,376.0,14.1,35.0,0.0,Daging Babi Kurus,daging babi
+M,55.0,173.0,76.88,25.69,227,206.0,17.1,14.8,0.0,Daging Domba,daging sapi
+M,55.0,189.0,90.04,25.21,228,154.0,16.6,9.2,0.0,Daging Kambing,daging sapi
+M,56.0,177.0,79.15,25.26,229,84.0,18.7,0.5,0.0,Daging Kerbau,daging sapi
+M,56.0,174.0,76.09,25.13,230,118.0,18.1,4.1,0.9,Daging Kuda,sayuran
+M,57.0,167.0,67.02,24.03,231,207.0,18.8,14.0,0.0,Daging Sapi,daging sapi
+M,57.0,182.0,82.67,24.96,232,27.0,1.3,0.6,4.0,Daun bangun-bangun segar,sayuran
+M,58.0,182.0,79.61,24.03,233,29.0,1.8,0.7,5.2,Daun Bawang,sayuran
+M,58.0,171.0,73.37,25.09,234,41.0,2.0,0.3,7.8,Daun bawang  merah segar,sayuran
+M,60.0,171.0,71.55,24.47,235,41.0,2.7,1.0,7.3,Daun bebuas segar,sayuran
+M,62.0,171.0,76.54,26.18,236,50.0,4.4,1.4,7.8,Daun belem segar,sayuran
+M,62.0,184.0,86.86,25.66,237,42.0,1.8,0.5,9.4,Daun Beluntas,sayuran
+M,63.0,177.0,99.41,31.73,238,122.0,6.0,1.0,26.0,Daun Cincau,sayuran
+M,64.0,177.0,70.42,22.48,239,60.0,3.1,0.3,14.0,Daun Gandaria,sayuran
+M,65.0,167.0,86.07,30.86,240,58.0,2.9,0.7,10.0,Daun gedi besar segar,sayuran
+M,65.0,167.0,57.83,20.74,241,30.0,1.3,0.7,5.8,Daun gelang segar,sayuran
+M,65.0,173.0,101.83,34.02,242,50.0,4.6,0.9,7.0,Daun gunda bali segar,sayuran
+M,66.0,183.0,106.26,31.73,243,62.0,4.2,0.9,9.2,Daun gunda serang segar,sayuran
+M,67.0,185.0,103.31,30.19,244,73.0,4.6,0.5,16.2,Daun Jambu Mete muda,sayuran
+M,67.0,174.0,90.49,29.89,245,34.0,3.8,0.5,5.3,Daun jampang segar,sayuran
+M,68.0,176.0,70.53,22.77,246,93.0,5.0,1.3,15.3,Daun jawaw seluang segar,sayuran
+M,69.0,179.0,97.75,30.51,247,27.0,2.1,0.7,4.4,Daun jonghe segar,sayuran
+M,70.0,170.0,60.9,21.07,248,36.0,2.9,0.6,6.8,Daun kacang ma segar,sayuran
+M,72.0,177.0,91.17,29.1,249,34.0,4.1,0.4,5.8,Daun Kacang Panjang,sayuran
+M,72.0,168.0,84.71,30.01,250,40.0,3.7,0.3,8.0,Daun Kacang Panjang kukus,sayuran
+M,72.0,179.0,86.52,27.0,251,30.0,3.1,0.3,5.8,Daun kacang panjang segar,sayuran
+M,74.0,178.0,94.12,29.71,252,92.0,4.0,3.6,10.9,Daun kasbi/singkong karet segar,sayuran
+F,22.0,161.29,49.44,19.01,253,59.0,4.8,1.0,11.0,Daun Katuk,sayuran
+F,22.0,157.48,60.78,24.51,254,53.0,5.3,0.9,9.1,Daun katuk rebus,sayuran
+F,21.0,161.8,63.05,24.08,255,59.0,6.4,1.0,9.9,Daun katuk segar,sayuran
+F,20.0,168.15,53.07,18.77,256,47.0,5.0,0.5,8.5,Daun Kecipir,sayuran
+F,20.0,173.23,59.42,19.8,257,59.0,2.8,0.3,13.4,Daun Kedondong,sayuran
+F,24.0,161.29,68.04,26.15,258,82.0,6.7,1.7,14.3,Daun Kelor,sayuran
+F,21.0,178.31,76.2,23.97,259,61.0,6.1,0.9,10.0,Daun Kelor rebus,sayuran
+F,21.0,171.45,56.25,19.13,260,46.0,4.0,0.5,8.9,Daun Kemangi,sayuran
+F,20.0,166.88,54.89,19.71,261,45.0,3.7,0.5,6.6,Daun kenikir segar,sayuran
+F,19.0,168.91,73.03,25.6,262,48.0,4.5,0.8,9.1,Daun kesum segar,sayuran
+F,20.0,173.99,71.67,23.67,263,22.0,2.1,0.5,3.6,Daun kol sawi segar,sayuran
+F,20.0,160.53,44.45,17.25,264,23.0,3.0,0.3,3.7,Daun Koro,sayuran
+F,24.0,179.07,67.59,21.08,265,51.0,2.5,1.1,8.0,Daun kubis segar,sayuran
+F,18.0,160.02,53.98,21.08,266,14.0,1.3,0.3,2.3,Daun Kumak,sayuran
+F,19.0,163.83,51.71,19.27,267,60.0,4.0,0.4,4.7,Daun Labu Siam,sayuran
+F,21.0,160.02,52.62,20.55,268,30.0,3.6,0.6,4.5,Daun Labu Waluh,sayuran
+F,19.0,162.56,61.69,23.34,269,87.0,8.3,1.8,14.4,Daun lamtoro segar,sayuran
+F,21.0,168.66,63.96,22.48,270,76.0,2.8,0.2,15.8,Daun leilem segar,sayuran
+F,19.0,165.1,62.6,22.96,271,45.0,4.7,0.5,8.1,Daun Leunca,sayuran
+F,21.0,172.72,58.97,19.77,272,30.0,2.3,0.4,5.8,Daun Lobak,sayuran
+F,20.0,157.48,50.35,20.3,273,40.0,3.0,0.8,7.4,Daun Lompong Tales,sayuran
+F,21.0,162.56,62.14,23.52,274,54.0,3.7,0.3,11.8,Daun Mangkokan,sayuran
+F,18.0,161.29,48.54,18.66,275,71.0,6.8,1.6,11.5,Daun matel ambon segar,sayuran
+F,18.0,172.72,70.31,23.57,276,99.0,5.0,1.3,21.3,Daun Melinjo,sayuran
+F,20.0,160.02,50.8,19.84,277,63.0,3.8,1.5,11.5,Daun Mengkudu Kukus,sayuran
+F,19.0,172.72,63.5,21.29,278,166.0,1.7,0.5,38.8,Daun ndusuk segar,sayuran
+F,22.0,170.18,52.16,18.01,279,22.0,1.0,0.1,5.3,Daun Oyong,sayuran
+F,19.0,160.02,50.35,19.66,280,22.0,1.0,0.1,5.3,Daun oyong segar,sayuran
+F,24.0,166.37,60.78,21.96,281,35.0,4.0,0.3,6.4,Daun Pakis,sayuran
+F,19.0,158.75,59.42,23.58,282,54.0,2.2,3.6,3.1,Daun pakis longgiho segar,sayuran
+F,23.0,154.18,54.89,23.09,283,39.0,4.5,0.4,6.9,Daun pakis segar,sayuran
+F,21.0,160.78,58.51,22.64,284,53.0,3.4,1.2,7.2,Daun pakis wambateu segar,sayuran
+F,22.0,161.8,64.86,24.78,285,29.0,3.4,0.1,6.5,Daun paku segar,sayuran
+F,19.0,164.77,62.6,23.06,286,104.0,3.9,0.6,17.9,Daun pangisegar,sayuran
+F,22.0,170.18,53.98,18.64,287,49.0,2.7,1.0,8.4,Daun pare segar,sayuran
+F,20.0,170.18,66.68,23.02,288,87.0,8.0,2.0,11.9,Daun pepaya segar,sayuran
+F,21.0,177.8,68.95,21.81,289,128.0,12.0,6.5,12.4,Daun Pete Cina,sayuran
+F,20.0,160.02,53.52,20.9,290,37.0,2.5,0.8,6.9,Daun Poh-pohan,sayuran
+F,22.0,165.1,58.51,21.47,291,301.0,14.2,10.9,49.0,Daun salam  bubuk,sayuran
+F,19.0,163.32,64.86,24.32,292,62.0,4.0,0.5,10.5,Daun selasih segar,sayuran
+F,21.0,168.91,63.05,22.1,293,45.0,4.4,8.0,0.5,Daun Semanggi,sayuran
+F,19.0,166.88,59.88,21.5,294,45.0,4.4,0.5,8.5,Daun semanggi segar,sayuran
+F,20.0,166.37,77.11,27.86,295,53.0,3.2,2.5,7.6,Daun simpur segar,sayuran
+F,19.0,158.75,43.55,17.28,296,68.0,2.0,1.0,15.2,Daun singkil segar,sayuran
+F,24.0,158.75,49.44,19.62,297,73.0,6.8,1.2,13.0,Daun Singkong,sayuran
+F,20.0,172.72,65.77,22.05,298,144.0,12.7,1.2,25.2,Daun singkong ambon segar,sayuran
+F,20.0,163.83,50.8,18.93,299,50.0,6.2,1.1,7.1,Daun singkong ampenan segar,sayuran
+F,21.0,166.37,67.59,24.42,300,74.0,6.3,0.7,10.7,Daun singkong kopang segar,sayuran
+F,20.0,166.88,61.69,22.15,301,55.0,4.0,0.5,8.5,Daun Singkong lodeh,sayuran
+F,22.0,171.45,67.59,22.99,302,31.0,3.7,0.6,4.8,Daun Singkong rebus,sayuran
+F,19.0,171.45,59.42,20.21,303,50.0,6.2,1.1,7.1,Daun singkong segar,sayuran
+F,20.0,160.02,44.45,17.36,304,36.0,2.6,0.9,6.1,Daun Sintrong,sayuran
+F,19.0,163.83,56.25,20.96,305,27.0,1.3,0.2,5.9,Daun talas rebus,sayuran
+F,18.0,160.02,68.49,26.75,306,59.0,3.0,0.4,13.5,Daun talas segar,sayuran
+F,20.0,180.34,66.23,20.36,307,71.0,4.1,2.1,12.3,Daun Tales,sayuran
+F,22.0,162.56,62.14,23.52,308,27.0,1.3,0.2,5.9,Daun Tales rebus,sayuran
+F,18.0,167.64,62.14,22.11,309,70.0,2.9,0.3,13.9,Daun tespong segar,sayuran
+F,23.0,168.91,65.32,22.89,310,47.0,2.8,0.4,10.4,Daun Ubi Jalar,sayuran
+F,19.0,165.1,68.49,25.13,311,56.0,3.1,0.3,13.0,Daun Ubi Jalar kukus,sayuran
+F,20.0,157.48,58.06,23.41,312,62.0,3.7,0.3,11.1,Daun ubi kuning segar,sayuran
+F,21.0,172.72,68.95,23.11,313,56.0,3.1,0.3,13.0,Daun ubi merah kukus,sayuran
+F,19.0,163.83,55.34,20.62,314,48.0,3.0,0.3,10.8,Daun ubi merah segar,sayuran
+F,18.0,163.83,61.69,22.98,315,46.0,2.8,0.2,8.2,Daun ubi putih segar,sayuran
+F,18.0,163.32,55.79,20.92,316,55.0,1.7,0.1,11.9,Daun ubi tinta segar,sayuran
+F,18.0,165.1,63.96,23.46,317,260.0,2.0,15.0,53.0,Deblo ,sayuran
+F,19.0,162.56,59.88,22.66,318,382.0,55.7,14.1,8.0,Dendeng belut goreng,Ikan
+F,21.0,162.56,61.69,23.34,319,433.0,55.0,9.0,0.0,Dendeng Daging Sapi,daging sapi
+F,23.0,162.56,76.66,29.01,320,598.0,74.3,26.9,9.2,Dendeng mujahir goreng,Ikan
+F,19.0,180.34,75.3,23.15,321,77.0,13.8,1.9,0.7,Dideh darah ayam,daging ayam
+F,21.0,171.45,57.61,19.6,322,104.0,21.9,1.1,0.0,Dideh darah sapi,daging sapi
+F,22.0,175.26,59.42,19.35,323,248.0,10.0,2.3,40.9,Djibokum masakan,sayuran
+F,19.0,165.1,59.88,21.97,324,395.0,3.0,5.7,81.2,Dodol,sayuran
+F,19.0,167.64,74.39,26.47,325,298.0,3.7,2.1,65.9,Dodol bali,sayuran
+F,19.0,172.72,65.77,22.05,326,368.0,2.6,8.6,70.0,Dodol banjarmasin,sayuran
+F,24.0,168.91,57.15,20.03,327,348.0,0.4,3.8,76.1,Dodol galamai,sayuran
+F,20.0,166.88,58.97,21.17,328,331.0,1.9,7.6,63.8,Dodol kedondong,sayuran
+F,20.0,169.16,68.04,23.78,329,373.0,4.3,16.5,51.9,Dodol manado,sayuran
+F,23.0,170.18,65.32,22.55,330,17.5,3.3,2.3,39.5,Dodonkol ,sayuran
+F,19.0,161.29,51.71,19.88,331,317.0,15.7,27.7,0.0,Domba daging gemuk segar,"daging sapi, sayuran"
+F,18.0,173.99,63.96,21.13,332,202.0,17.1,14.8,0.0,Domba daging kurus  segar,"daging sapi, sayuran"
+F,20.0,170.18,70.76,24.43,333,100.0,16.6,3.3,1.0,Domba ginjal segar,"daging sapi, sayuran"
+F,20.0,180.34,61.69,18.97,334,63.0,1.0,0.2,16.1,Duku,sayuran
+F,19.0,165.1,66.23,24.3,335,134.0,2.5,3.0,28.0,Durian,sayuran
+F,19.0,172.72,74.39,24.94,336,80.0,0.5,0.6,18.2,Duwet segar,sayuran
+F,19.0,170.18,65.77,22.71,337,18.0,1.0,0.2,3.8,Eceng Gondok,sayuran
+F,21.0,164.34,47.63,17.64,338,98.0,1.4,0.2,25.4,Embacang,sayuran
+F,21.0,162.56,57.15,21.63,339,248.0,36.2,6.9,10.1,Empal (daging) Goreng masakan,daging sapi
+F,20.0,166.88,53.98,19.38,340,590.0,18.5,57.0,0.0,Empal Goreng,daging sapi
+F,20.0,166.88,47.63,17.1,341,345.0,12.0,1.5,71.5,Emping (kerupuk melinjo),sayuran
+F,24.0,173.48,70.31,23.36,342,403.0,10.6,2.2,85.3,Emping beras,sayuran
+F,20.0,175.26,72.12,23.48,343,355.0,17.8,4.6,60.7,Emping komak,sayuran
+F,23.0,161.29,50.8,19.53,344,122.0,3.5,4.5,17.5,Encung asam segar,sayuran
+F,18.0,165.1,57.61,21.13,345,538.0,13.6,30.3,52.6,Enting-enting gepuk hello kity,sayuran
+F,22.0,174.5,59.88,19.66,346,524.0,13.3,29.2,52.0,Enting-enting gepuk kacang tanah,Kacang
+F,21.0,179.07,57.61,17.97,347,565.0,18.2,38.4,36.8,Enting-enting wijen,Wijen
+F,21.0,168.91,69.85,24.48,348,70.0,0.6,0.0,18.9,Erbis,sayuran
+F,19.0,171.45,54.89,18.67,349,210.0,4.0,12.5,20.6,Es krim,Susu sapi
+F,19.0,170.18,60.78,20.99,350,156.7,3.0,1.7,32.7,Es Krim (Coconut milk) ,Susu sapi
+F,20.0,167.64,49.9,17.75,351,152.0,0.0,0.0,37.6,Es Mambo ,sayuran
+F,20.0,166.37,49.9,18.03,352,44.8,0.0,0.0,11.3,Es Sirup ,sayuran
+F,20.0,171.45,59.88,20.37,353,270.0,12.3,15.9,19.3,Fillet o-fish,Ikan
+F,21.0,165.1,52.62,19.3,354,322.0,2.4,0.6,76.6,Gadeng/Gadung kering,sayuran
+F,20.0,165.1,64.41,23.63,355,137.0,6.1,3.2,21.0,Gado-gado,sayuran
+F,18.0,171.45,74.84,25.46,356,88.0,0.8,0.3,20.9,Gadung kukus,sayuran
+F,21.0,172.72,69.4,23.26,357,101.0,2.1,0.2,23.2,Gadung mentah,sayuran
+F,20.0,167.64,77.11,27.44,358,88.0,0.6,0.3,20.9,Gadung ubi kukus,sayuran
+F,20.0,166.37,64.41,23.27,359,100.0,0.9,0.3,23.5,Gadung ubi segar,sayuran
+F,20.0,170.94,74.39,25.46,360,18.0,0.8,0.2,4.1,Gambas (Oyong),sayuran
+F,21.0,161.29,52.62,20.23,361,13.0,0.3,0.6,1.6,Gambas lodeh,sayuran
+F,20.0,166.37,54.89,19.83,362,68.0,0.7,0.1,18.0,Gandaria,sayuran
+F,20.0,167.64,54.89,19.53,363,100.0,0.8,0.2,23.8,Ganyong kukus,sayuran
+F,23.0,172.72,68.49,22.96,364,95.0,1.0,0.1,22.6,Ganyong mentah,sayuran
+F,20.0,161.29,50.35,19.35,365,100.0,0.8,0.2,23.8,Ganyong rebus,sayuran
+F,19.0,170.18,63.96,22.08,366,77.0,0.6,0.2,18.4,Ganyong segar,sayuran
+F,18.0,167.64,60.33,21.47,367,338.0,1.5,0.7,81.3,Gaplek,sayuran
+F,20.0,177.8,54.43,17.22,368,191.0,4.5,1.5,39.7,Gatep segar,sayuran
+F,21.0,170.18,53.52,18.48,369,347.0,1.3,0.7,83.8,Gatot,sayuran
+F,22.0,156.21,49.44,20.26,370,195.0,0.4,1.7,44.4,Geblek,sayuran
+F,23.0,165.1,59.88,21.97,371,389.0,0.0,0.0,91.0,Gelatine,sayuran
+F,1.0,164.34,62.6,23.18,372,95.0,1.5,0.1,22.4,Gembili,sayuran
+F,21.0,168.91,56.25,19.71,373,131.0,1.1,0.2,31.3,Gembili ubi segar,sayuran
+F,21.0,165.1,64.41,23.63,374,274.0,1.7,5.4,55.5,Gemblong,sayuran
+F,20.0,167.64,57.61,20.5,375,407.0,6.4,28.2,32.0,Gendar goreng,sayuran
+F,21.0,171.45,56.7,19.29,376,35.0,1.7,0.2,7.7,Genjer segar,sayuran
+F,19.0,177.04,59.88,19.1,377,350.0,1.4,14.4,53.6,Geplak,sayuran
+F,19.0,175.26,48.54,15.8,378,462.0,3.1,24.4,57.7,Geplak jahe,sayuran
+F,23.0,172.72,65.32,21.9,379,75.0,8.2,2.0,6.0,Gete kuah asam masakan,sayuran
+F,21.0,166.37,62.6,22.62,380,360.0,1.3,6.4,74.3,Getuk goreng,sayuran
+F,21.0,177.8,69.85,22.1,381,171.4,4.0,4.0,32.0,Getuk Lindri ,sayuran
+F,20.0,162.56,57.61,21.8,382,144.0,1.1,0.4,34.1,Getuk pisang,sayuran
+F,20.0,176.53,75.75,24.31,383,204.0,0.5,1.4,47.4,Getuk singkong,sayuran
+F,22.0,160.02,49.44,19.31,384,114.0,16.3,4.6,0.8,Ginjal Babi,daging babi
+F,20.0,165.1,59.88,21.97,385,105.0,16.6,3.3,1.0,Ginjal Domba,daging sapi
+F,21.0,168.4,59.42,20.95,386,141.0,15.0,8.1,0.9,Ginjal Sapi,daging sapi
+F,23.0,165.1,52.16,19.14,387,53.0,1.6,1.6,8.8,Gudeg ,sayuran
+F,20.0,179.58,64.86,20.11,388,160.0,3.3,9.2,16.0,Gudeg sayur,sayuran
+F,25.0,162.56,75.3,28.49,389,368.0,0.0,0.0,95.0,Gula Aren,sayuran
+F,18.0,175.26,62.14,20.23,390,386.0,3.0,10.0,76.0,Gula Kelapa,sayuran
+F,21.0,172.72,56.25,18.85,391,356.0,0.4,0.5,90.6,Gula Merah Tebu belum dimurnikan,"Ikan, sayuran"
+F,19.0,166.37,73.94,26.71,392,394.0,0.0,0.0,94.0,Gula putih,sayuran
+F,21.0,156.21,48.99,20.08,393,52.0,10.0,0.5,1.8,Gulai asam keueung masakan,sayuran
+F,21.0,177.8,64.86,20.52,394,106.0,16.5,3.3,2.5,Gulai ikan masakan,"Ikan, sayuran"
+F,21.0,160.02,56.7,22.14,395,148.0,10.0,9.8,5.0,Gulai ikan paya masakan,"Ikan, sayuran"
+F,18.0,165.86,58.06,21.11,396,126.0,4.2,9.4,6.2,Gulai kambing,"daging sapi, sayuran"
+F,20.0,167.64,58.97,20.98,397,110.0,5.9,8.2,3.2,Gulai keumamah masakan,sayuran
+F,21.0,162.56,56.25,21.28,398,143.0,4.0,11.4,6.0,Gulai pakis,sayuran
+F,20.0,175.26,58.06,18.9,399,176.0,7.3,14.9,3.2,Gulai pliek,sayuran
+F,22.0,173.23,54.89,18.29,400,132.0,9.0,7.2,7.8,Gulai tiram masakan,"Seafood, sayuran"
+F,22.0,170.69,76.66,26.31,401,192.0,12.7,10.1,12.7,Gurame asem manis masakan,Ikan
+F,22.0,173.99,58.51,19.33,402,218.0,0.5,2.5,48.5,Gurandil,sayuran
+F,21.0,166.37,86.18,31.14,403,389.0,16.9,35.0,0.3,Ham,daging babi
+F,22.0,160.02,65.32,25.51,404,65.0,10.0,1.0,3.5,Hangop,sayuran
+F,21.0,169.42,48.08,16.75,405,134.0,19.7,4.8,1.7,Hati Babi,daging babi
+F,19.0,153.67,64.41,27.28,406,136.0,19.7,3.2,6.0,Hati Sapi,daging sapi
+F,19.0,161.29,42.18,16.22,407,390.0,14.2,7.4,68.2,Havermout,Gandum
+F,20.0,166.88,48.99,17.59,408,127.0,1.2,0.5,29.5,Hofa/Ubi hutan segar,sayuran
+F,20.0,160.02,53.07,20.73,409,146.0,17.7,5.9,5.6,Ikan asar merah masakan,Ikan
+F,20.0,166.37,48.54,17.54,410,380.0,33.6,27.5,0.0,Ikan Asin bilis goreng,Ikan
+F,20.0,163.83,59.42,22.14,411,456.0,46.5,24.4,0.0,Ikan Asin gabus goreng,Ikan
+F,21.0,156.21,50.35,20.63,412,348.0,18.7,29.5,0.0,Ikan Asin japuh goreng,Ikan
+F,20.0,163.83,55.34,20.62,413,193.0,42.0,1.5,0.0,Ikan Asin kering,Ikan
+F,22.0,162.56,58.06,21.97,414,430.0,58.2,23.6,0.0,Ikan Asin pari goreng,Ikan
+F,22.0,169.42,54.43,18.96,415,652.0,40.4,54.3,0.0,Ikan Asin pepetek goreng,Ikan
+F,24.0,160.02,53.52,20.9,416,319.0,6.9,31.7,0.0,Ikan Asin sirinding goreng,Ikan
+F,20.0,168.91,73.03,25.6,417,430.0,33.4,32.4,0.0,Ikan Asin teri goreng,Ikan
+F,20.0,172.72,64.86,21.74,418,198.0,19.0,13.0,0.0,Ikan Bader (Tawes),Ikan
+F,19.0,165.1,48.54,17.81,419,107.0,16.5,3.9,1.5,Ikan balong segar,"Ikan, sayuran"
+F,24.0,172.72,56.25,18.85,420,112.0,20.0,1.3,3.7,Ikan bambangan segar,"Ikan, sayuran"
+F,20.0,162.56,74.84,28.32,421,129.0,20.0,4.8,0.0,Ikan Bandeng,Ikan
+F,22.0,173.99,76.66,25.32,422,296.0,17.1,20.3,11.3,Ikan bandeng presto masakan,Ikan
+F,20.0,160.02,48.99,19.13,423,111.0,19.4,0.9,4.8,Ikan banjar segar,"Ikan, sayuran"
+F,21.0,170.18,57.61,19.89,424,78.0,14.5,0.6,3.7,Ikan baronang segar,"Ikan, sayuran"
+F,20.0,162.56,57.61,21.8,425,144.0,17.8,5.8,5.2,Ikan baung bakar,Ikan
+F,20.0,160.78,57.61,22.28,426,123.0,15.1,5.5,3.3,Ikan baung segar,"Ikan, sayuran"
+F,22.0,162.56,57.15,21.63,427,96.0,19.0,1.7,0.0,Ikan Bawal,Ikan
+F,20.0,167.64,67.13,23.89,428,138.0,14.0,0.7,7.4,Ikan Bekasang,Ikan
+F,19.0,161.29,55.79,21.45,429,128.0,18.0,3.0,7.2,Ikan Belida bakar,Ikan
+F,18.0,163.83,61.24,22.81,430,80.0,14.7,1.4,2.2,Ikan Belida segar,"Ikan, sayuran"
+F,23.0,162.56,59.88,22.66,431,417.0,25.9,19.4,32.0,Ikan Belut Segar goreng,"Ikan, sayuran"
+F,23.0,156.21,59.88,24.54,432,82.0,6.7,1.0,10.9,Ikan Belut Segar mentah,"Ikan, sayuran"
+F,21.0,157.48,48.54,19.57,433,66.0,14.0,0.0,0.0,Ikan Beunteur,Ikan
+F,20.0,157.48,51.71,20.85,434,90.0,14.9,2.5,2.1,Ikan biawan segar,"Ikan, sayuran"
+F,22.0,165.1,50.8,18.64,435,88.0,14.2,0.7,6.2,Ikan bili segar,"Ikan, sayuran"
+F,24.0,160.02,47.63,18.6,436,100.0,14.7,2.4,4.9,Ikan bubara segar,"Ikan, sayuran"
+,,,,,437,134.0,25.5,1.3,5.0,Ikan bulan-bulan segar,"Ikan, sayuran"
+,,,,,438,204.0,34.2,5.6,1.9,Ikan cakalang asap mentah,Ikan
+,,,,,439,198.0,36.5,2.2,5.5,Ikan cakalang asin mentah,Ikan
+,,,,,440,120.0,11.3,3.9,10.0,Ikan cakalang hati segar,"Ikan, sayuran"
+,,,,,441,116.0,11.2,1.2,10.2,Ikan cakalang jantung segar,"Ikan, sayuran"
+,,,,,442,86.0,10.2,1.1,8.7,Ikan cakalang perut segar,"Ikan, sayuran"
+,,,,,443,107.0,19.6,0.7,5.5,Ikan cakalang segar,"Ikan, sayuran"
+,,,,,444,81.0,11.4,1.9,3.8,Ikan calo/ peda mentah,Ikan
+,,,,,445,101.0,11.5,4.1,4.6,Ikan daun segar,"Ikan, sayuran"
+,,,,,446,109.0,17.0,4.0,0.0,Ikan Ekor Kuning,Ikan
+,,,,,447,261.0,38.1,2.3,21.9,Ikan Gabus asap mentah,Ikan
+,,,,,448,292.0,58.0,4.0,0.0,Ikan Gabus kering,Ikan
+,,,,,449,74.0,25.2,1.7,0.0,Ikan Gabus segar,"Ikan, sayuran"
+,,,,,450,267.0,23.1,19.4,0.2,Ikan gete goreng,Ikan
+,,,,,451,101.0,10.3,3.7,6.7,Ikan hitam segar,"Ikan, sayuran"
+,,,,,452,298.0,46.3,3.6,20.2,Ikan hiu kering,Ikan
+,,,,,453,57.0,10.7,0.3,2.2,Ikan hiu segar,"Ikan, sayuran"
+,,,,,454,77.0,15.6,0.9,1.6,Ikan kacangan segar,"Ikan, sayuran"
+,,,,,455,92.0,20.0,0.7,0.0,Ikan kakap segar,"Ikan, sayuran"
+,,,,,456,82.0,11.4,1.2,6.4,Ikan kakatua segar,"Ikan, sayuran"
+,,,,,457,132.0,17.0,6.7,0.8,Ikan kapar segar,"Ikan, sayuran"
+,,,,,458,162.0,31.7,2.8,0.3,Ikan katombo asin,Ikan
+,,,,,459,110.0,12.6,4.2,5.4,Ikan kawalinya segar,"Ikan, sayuran"
+,,,,,460,302.0,70.7,1.9,0.4,Ikan kayu kering,Ikan
+,,,,,461,103.0,22.0,1.0,0.0,Ikan Kembung,Ikan
+,,,,,462,70.0,10.8,0.7,5.2,Ikan kima segar,"Ikan, sayuran"
+,,,,,463,147.0,17.5,6.5,5.4,Ikan Lais bakar,Ikan
+,,,,,464,109.0,22.0,1.7,0.0,Ikan Layang,Ikan
+,,,,,465,82.0,18.0,1.0,0.4,Ikan layur segar,"Ikan, sayuran"
+,,,,,466,90.0,20.4,0.9,0.0,Ikan lehoma segar,"Ikan, sayuran"
+,,,,,467,252.0,19.9,19.1,0.0,Ikan Lele goreng,Ikan
+,,,,,468,112.0,20.0,3.0,0.0,Ikan Lemuru,Ikan
+,,,,,469,104.0,15.6,3.2,2.0,Ikan lidah segar,"Ikan, sayuran"
+,,,,,470,258.0,40.3,2.3,18.9,Ikan lomak asin mentah,Ikan
+,,,,,471,99.0,20.6,1.4,0.9,Ikan malalugis segar,"Ikan, sayuran"
+,,,,,472,86.0,16.0,2.0,0.0,Ikan Mas,Ikan
+,,,,,473,188.0,19.3,12.2,0.0,Ikan Mas goreng,Ikan
+,,,,,474,209.0,15.2,11.3,11.8,Ikan Mas pepes,Ikan
+,,,,,475,97.0,17.9,2.0,0.4,Ikan mayong segar,"Ikan, sayuran"
+,,,,,476,598.0,74.3,26.9,9.2,Ikan Mujair dendeng goreng,Ikan
+,,,,,477,582.0,68.3,15.2,37.2,Ikan Mujair dendeng mentah,Ikan
+,,,,,478,416.0,46.9,23.9,0.0,Ikan Mujair goreng,Ikan
+,,,,,479,121.0,21.7,2.8,0.8,Ikan Mujair pepes,Ikan
+,,,,,480,89.0,18.7,1.0,0.0,Ikan Mujair segar,"Ikan, sayuran"
+,,,,,481,154.0,16.8,5.0,10.5,Ikan nasu metti segar,"Ikan, sayuran"
+,,,,,482,125.0,21.3,3.4,2.2,Ikan oci kembung segar,"Ikan, sayuran"
+,,,,,483,152.0,17.6,6.1,6.7,Ikan Papuyu bakar,Ikan
+,,,,,484,120.0,14.3,4.9,4.6,Ikan papuyu/ betok segar,"Ikan, sayuran"
+,,,,,485,144.0,17.5,6.3,4.3,Ikan Patin bakar,Ikan
+,,,,,486,132.0,17.0,6.6,1.1,Ikan Patin segar,"Ikan, sayuran"
+,,,,,487,156.0,28.0,4.0,2.0,Ikan peda banjar mentah,Ikan
+,,,,,488,176.0,32.0,4.4,0.0,Ikan Pepetek,Ikan
+,,,,,489,157.0,28.0,4.2,1.8,Ikan Pindang banjar mentah,Ikan
+,,,,,490,170.0,31.0,4.2,0.0,Ikan Pindang benggol mentah,Ikan
+,,,,,491,153.0,30.0,2.8,0.0,Ikan Pindang layang mentah,Ikan
+,,,,,492,142.0,27.0,3.0,0.0,Ikan Pindang selar mentah,Ikan
+,,,,,493,415.0,61.3,17.6,2.9,Ikan sale lais mentah,Ikan
+,,,,,494,534.0,40.2,39.3,4.9,Ikan Sale segar,Ikan
+,,,,,495,284.0,34.1,9.9,14.6,Ikan saluang kering mentah,Ikan
+,,,,,496,113.0,13.9,4.9,3.4,Ikan saluang segar,Ikan
+,,,,,497,240.0,21.7,7.7,20.7,Ikan sanggang masakan,Ikan
+,,,,,498,109.0,19.9,1.8,3.4,Ikan sarden segar,Ikan
+,,,,,499,113.0,17.0,4.5,0.0,Ikan Segar,Ikan
+,,,,,500,194.0,38.0,3.5,0.0,Ikan Selar kering,Ikan
+,,,,,501,138.0,27.0,3.3,0.0,Ikan selar kuning cue mentah,Ikan
+,,,,,502,100.0,18.8,2.2,0.0,Ikan selar segar,Ikan
+,,,,,503,289.0,38.0,14.0,0.0,Ikan Sepat kering,Ikan
+,,,,,504,84.0,15.2,0.6,4.7,Ikan sepat segar,Ikan
+,,,,,505,81.0,11.4,1.9,3.8,Ikan sidat segar,Ikan
+,,,,,506,199.0,34.1,3.8,7.1,Ikan sunu asin mentah,Ikan
+,,,,,507,111.0,13.3,3.4,6.7,Ikan sunu segar,Ikan
+,,,,,508,88.0,15.9,0.9,4.1,Ikan tahuman segar,Ikan
+,,,,,509,96.0,19.5,1.1,2.0,Ikan tarmon segar,Ikan
+,,,,,510,95.0,15.8,0.7,6.5,Ikan telan segar,Ikan
+,,,,,511,358.0,20.7,26.4,9.4,Ikan telur asin mentah,"Telur, Ikan"
+,,,,,512,204.0,16.0,15.0,0.0,Ikan Tembang,Ikan
+,,,,,513,101.0,15.1,4.1,1.0,Ikan tempahas segar,Ikan
+,,,,,514,316.0,60.1,6.5,22.4,Ikan tepung mentah,Ikan
+,,,,,515,98.0,19.6,1.7,1.0,Ikan terbang segar,Ikan
+,,,,,516,277.0,60.0,2.3,1.8,Ikan Teri bubuk,Ikan
+,,,,,517,170.0,33.4,3.0,0.0,Ikan Teri kering,Ikan
+,,,,,518,331.0,68.7,4.2,0.0,Ikan Teri Kering tawar,Ikan
+,,,,,519,144.0,32.5,0.6,0.0,Ikan Teri Nasi kering,Ikan
+,,,,,520,74.0,10.3,1.4,4.1,Ikan teri segar,Ikan
+,,,,,521,347.0,48.8,6.4,19.6,Ikan Teri tepung,Ikan
+,,,,,522,82.0,17.4,0.4,2.3,Ikan titang segar,Ikan
+,,,,,523,100.0,13.7,1.5,8.0,Ikan tongkol segar,Ikan
+,,,,,524,96.0,19.2,2.0,0.2,Ikan turi segar,Ikan
+,,,,,525,474.0,7.6,21.6,62.3,Intip goreng,sayuran
+,,,,,526,496.0,30.3,33.5,18.4,Itik alabio daging dendeng mentah,"daging sapi, daging ayam"
+,,,,,527,156.0,2.7,1.3,33.3,Jagung grontol,sayuran
+,,,,,528,361.0,8.7,4.5,72.4,Jagung Kuning giling,sayuran
+,,,,,529,129.0,4.1,1.3,30.3,Jagung Kuning muda,sayuran
+,,,,,530,307.0,7.9,3.4,63.6,Jagung Kuning pipil baru,sayuran
+,,,,,531,366.0,9.8,7.3,69.1,Jagung kuning pipil kering mentah,sayuran
+,,,,,532,355.0,9.2,3.9,73.7,Jagung Kuning pipil lama,sayuran
+,,,,,533,154.0,3.8,3.5,28.4,Jagung kuning pipil rebus,sayuran
+,,,,,534,140.0,4.7,1.3,33.1,Jagung Kuning segar,sayuran
+,,,,,535,355.0,9.2,3.9,73.7,Jagung kuning tepung,sayuran
+,,,,,536,35.0,2.2,0.1,7.4,Jagung muda,sayuran
+,,,,,537,147.0,5.1,0.7,31.5,Jagung muda kuning mentah,sayuran
+,,,,,538,142.0,5.0,0.7,30.3,Jagung muda rebus,sayuran
+,,,,,539,367.0,6.2,5.1,76.2,Jagung pipil var. harapan kering,sayuran
+,,,,,540,368.0,5.5,4.6,78.0,Jagung pipil var. metro kering,sayuran
+,,,,,541,361.0,8.7,4.5,72.4,Jagung Putih giling,sayuran
+,,,,,542,129.0,4.1,1.3,30.3,Jagung Putih muda,sayuran
+,,,,,543,307.0,7.9,3.4,63.6,Jagung Putih pipil baru,sayuran
+,,,,,544,355.0,9.2,3.9,73.7,Jagung Putih pipil lama,sayuran
+,,,,,545,140.0,4.7,1.3,33.1,Jagung Putih segar,sayuran
+,,,,,546,175.0,1.8,1.8,35.0,Jagung Rebus ,sayuran
+,,,,,547,148.9,10.4,10.4,20.1,Jagung Sayur (tumis) ,sayuran
+,,,,,548,374.0,9.4,2.2,79.1,Jagung titi,sayuran
+,,,,,549,51.0,1.5,1.0,10.1,Jahe,sayuran
+,,,,,550,289.0,11.0,4.0,61.0,Jali,sayuran
+,,,,,551,239.0,0.5,0.6,64.5,Jam selai,sayuran
+,,,,,552,286.0,48.5,9.2,2.3,Jambal goreng,Ikan
+,,,,,553,46.0,0.6,0.0,11.8,Jambu Air,sayuran
+,,,,,554,49.0,0.9,0.3,12.2,Jambu Biji,sayuran
+,,,,,555,61.0,0.9,0.3,15.4,Jambu biji putih tidak berbiji,sayuran
+,,,,,556,56.0,0.6,0.3,14.2,Jambu Bol,sayuran
+,,,,,557,64.0,0.7,0.6,15.8,Jambu Monyet buah,sayuran
+,,,,,558,350.0,6.2,1.4,78.2,Jampang huma mentah,sayuran
+,,,,,559,45.0,2.5,3.9,0.0,Jamur Coklat (kulat siau),sayuran
+,,,,,560,296.0,9.4,1.1,62.0,Jamur encik,sayuran
+,,,,,561,294.0,16.0,0.9,64.6,Jamur kuping kering,sayuran
+,,,,,562,21.0,3.8,0.6,0.9,Jamur kuping segar,sayuran
+,,,,,563,30.0,3.5,0.2,4.0,Jamur merang segar,sayuran
+,,,,,564,48.0,2.8,4.1,2.9,Jamur Putih (kulat putih),sayuran
+,,,,,565,48.0,1.9,3.2,2.8,Jamur sagu,sayuran
+,,,,,566,30.0,1.9,0.1,5.5,Jamur tiram segar,sayuran
+,,,,,567,107.0,5.3,2.2,16.5,Jangang bintatoeng masakan,sayuran
+,,,,,568,31.0,1.2,0.3,7.1,Jantung Pisang segar,sayuran
+,,,,,569,500.0,1.2,25.1,67.3,Japilus,Gandum
+,,,,,570,48.0,2.5,4.2,0.0,Jaruk Tigarun,sayuran
+,,,,,571,334.0,9.7,3.5,73.4,Jawawut,sayuran
+,,,,,572,381.7,9.5,9.5,65.8,Jenang ,sayuran
+,,,,,573,192.0,5.4,0.3,40.7,Jengkol segar,sayuran
+,,,,,574,48.0,0.6,0.2,12.4,Jeruk Bali,sayuran
+,,,,,575,61.0,0.8,0.2,14.1,Jeruk banjar segar,sayuran
+,,,,,576,44.0,0.8,0.3,10.9,Jeruk Garut,sayuran
+,,,,,577,39.0,0.3,0.3,8.9,Jeruk Kalamansi segar,sayuran
+,,,,,578,45.0,0.9,0.2,11.2,Jeruk Manis,sayuran
+,,,,,579,37.0,0.8,0.1,12.3,Jeruk Nipis,sayuran
+,,,,,580,49.0,0.7,0.2,11.1,Jeruk ragi segar,sayuran
+,,,,,581,32.0,1.9,0.3,7.1,Jotang,sayuran
+,,,,,582,15.0,15.2,4.3,8.8,Jukku pallu kaloa masakan,Ikan
+,,,,,583,130.0,6.7,0.3,25.2,Kabau segar,sayuran
+,,,,,584,133.0,1.0,0.2,32.2,Kaburan ubi segar,sayuran
+,,,,,585,250.0,2.6,2.5,35.4,Kabuto,sayuran
+,,,,,586,356.0,20.5,4.1,61.6,Kacang Andong,sayuran
+,,,,,587,330.0,23.8,1.4,60.2,Kacang Arab,sayuran
+,,,,,588,533.0,27.8,38.1,28.8,Kacang atom,Kacang
+,,,,,589,341.0,30.4,3.2,51.3,Kacang babi kering,"daging babi, sayuran"
+,,,,,590,400.0,34.4,16.9,34.1,Kacang belimbing (kecipir) kering,sayuran
+,,,,,591,204.0,16.9,8.8,17.5,Kacang Belimbing rebus,sayuran
+,,,,,592,212.0,17.5,10.0,12.9,Kacang Belimbing tempe,"Kedelai, sayuran"
+,,,,,593,118.0,4.4,1.5,21.6,Kacang beracun segar,sayuran
+,,,,,594,479.0,12.7,23.2,58.9,Kacang Bogor goreng,sayuran
+,,,,,595,370.0,16.0,6.0,65.0,Kacang bogor kering,sayuran
+,,,,,596,161.0,7.7,2.8,27.1,Kacang Bogor rebus,sayuran
+,,,,,597,165.0,7.7,3.1,27.4,Kacang bogor segar,sayuran
+,,,,,598,331.0,25.0,1.0,58.0,Kacang Endel biji,sayuran
+,,,,,599,129.0,12.4,0.7,18.3,Kacang ercis segar,sayuran
+,,,,,600,336.0,23.1,1.7,59.5,kacang galing segar,sayuran
+,,,,,601,516.0,14.7,31.1,44.4,Kacang goyang,sayuran
+,,,,,602,336.0,20.7,1.4,62.0,Kacang Gude biji,sayuran
+,,,,,603,316.0,20.7,1.0,58.0,Kacang gude biji kering,sayuran
+,,,,,604,114.0,7.0,0.6,20.8,Kacang Gude biji muda,sayuran
+,,,,,605,123.0,8.4,0.6,1.8,Kacang Gude muda,sayuran
+,,,,,606,147.0,9.0,0.5,27.5,Kacang gude rebus,sayuran
+,,,,,607,323.0,22.9,1.5,56.8,Kacang hijau kering,sayuran
+,,,,,608,109.0,8.7,0.5,18.3,kacang hijau rebus,sayuran
+,,,,,609,350.0,17.1,1.8,70.7,Kacang hijau var. bakti kering,sayuran
+,,,,,610,339.0,20.8,2.1,64.6,Kacang hijau var. siwalik kering,sayuran
+,,,,,611,346.0,16.6,1.7,66.1,Kacang hitam kering,sayuran
+,,,,,612,345.0,22.2,1.2,62.9,Kacang Ijo,sayuran
+,,,,,613,445.0,11.0,11.0,65.5,Kacang Kapri Goreng ,sayuran
+,,,,,614,98.0,6.7,0.4,17.7,Kacang Kapri muda,sayuran
+,,,,,615,286.0,30.2,15.6,30.1,Kacang Kedelai basah,Kedelai
+,,,,,616,521.0,32.2,37.7,22.9,Kacang kedelai goreng,Kedelai
+,,,,,617,381.0,40.4,16.7,24.9,Kacang kedelai kering,Kedelai
+,,,,,618,75.0,4.1,2.1,10.7,Kacang Kedelai kukus,Kedelai
+,,,,,619,189.0,20.2,8.2,12.7,Kacang kedelai rebus,Kedelai
+,,,,,620,286.0,30.2,15.6,30.1,Kacang kedelai segar,"Kedelai, sayuran"
+,,,,,621,327.0,16.4,4.3,55.8,Kacang komak segar,sayuran
+,,,,,622,355.0,17.0,2.5,66.0,Kacang kuning kering,sayuran
+,,,,,623,346.0,16.5,1.5,66.6,Kacang lebui /iris kering,sayuran
+,,,,,624,22.0,1.1,1.0,3.4,Kacang mekah polong segar,sayuran
+,,,,,625,344.0,16.7,2.1,64.6,Kacang mentega kering,Susu sapi
+,,,,,626,336.0,23.1,1.7,59.5,Kacang Merah,sayuran
+,,,,,627,350.0,13.9,3.0,66.9,Kacang merah /banda kering,sayuran
+,,,,,628,314.0,22.1,1.1,56.2,Kacang merah kering,sayuran
+,,,,,629,158.0,10.3,0.9,28.2,Kacang Merah kering rebus,sayuran
+,,,,,630,171.0,11.0,2.2,28.0,Kacang merah segar,sayuran
+,,,,,631,144.0,10.0,1.0,24.7,Kacang Merah segar rebus,sayuran
+,,,,,632,280.0,16.7,1.6,63.2,Kacang merah tua kering,sayuran
+,,,,,633,629.0,20.4,56.3,19.8,Kacang mete/biji jambu monyet goreng,sayuran
+,,,,,634,616.0,16.3,48.4,28.7,Kacang mete/biji jambu monyet segar,sayuran
+,,,,,635,480.0,18.4,19.1,58.5,Kacang negara,sayuran
+,,,,,636,44.0,2.7,0.3,7.8,Kacang Panjang,sayuran
+,,,,,637,357.0,17.3,1.5,70.0,Kacang Panjang biji,sayuran
+,,,,,638,39.0,3.0,0.6,7.6,Kacang Panjang kukus,sayuran
+,,,,,639,150.0,2.5,12.5,7.0,Kacang Panjang tumis,sayuran
+,,,,,640,37.0,3.1,0.2,7.9,Kacang ranti polong,sayuran
+,,,,,641,484.0,8.8,26.1,57.7,Kacang sukro,Kacang
+,,,,,642,488.0,25.6,25.6,59.6,Kacang Sukro Putih ,Kacang
+,,,,,643,535.0,27.8,38.1,28.8,Kacang Tanah atom,Kacang
+,,,,,644,564.0,25.5,44.4,25.5,Kacang tanah goreng,Kacang
+,,,,,645,561.0,25.5,43.8,26.0,Kacang Tanah kacang sari,Kacang
+,,,,,646,525.0,27.9,42.7,17.4,Kacang tanah kering,Kacang
+,,,,,647,385.0,14.0,31.0,13.0,Kacang Tanah Rebus ,Kacang
+,,,,,648,360.0,13.5,31.2,12.8,Kacang Tanah rebus berkulit,Kacang
+,,,,,649,513.0,17.5,32.5,44.3,Kacang Tanah rempeyek,Kacang
+,,,,,650,569.0,28.8,48.4,15.8,Kacang Tanah sangan berselaput,Kacang
+,,,,,651,559.0,26.9,44.2,23.6,Kacang tanah sangan tanpa selaput,Kacang
+,,,,,652,561.0,25.5,43.8,26.0,Kacang tanah sari,Kacang
+,,,,,653,748.0,20.8,20.8,124.8,Kacang Telur ,Telur
+,,,,,654,331.0,24.4,1.9,56.6,Kacang tolo / tunggak kering,sayuran
+,,,,,655,138.0,10.7,1.1,22.6,Kacang tolo rebus,sayuran
+,,,,,656,342.0,22.9,1.4,61.6,Kacang Tunggak (tolo),sayuran
+,,,,,657,138.0,10.7,1.1,22.6,Kacang Tunggak rebus,sayuran
+,,,,,658,451.0,11.2,20.2,59.7,Kacang Tunggak rempeyek,sayuran
+,,,,,659,351.0,12.2,1.2,72.9,Kacang tunis kering,sayuran
+,,,,,660,358.0,23.4,2.4,60.6,Kacang uci kering,sayuran
+,,,,,661,354.0,12.8,1.8,69.3,Kacang urei kering,sayuran
+,,,,,662,110.0,4.5,6.9,7.1,Kadada katembe,sayuran
+,,,,,663,413.0,28.7,19.8,29.8,Kaholeo masakan,Ikan
+,,,,,664,92.0,20.0,0.7,0.0,Kakap,Ikan
+,,,,,665,66.0,2.8,6.8,3.4,Kalakai,sayuran
+,,,,,666,163.0,16.5,9.0,4.1,Kalio jeroan masakan,daging sapi
+,,,,,667,122.0,13.8,5.7,3.9,Kalio kikil (tunjang) masakan,daging sapi
+,,,,,668,157.0,8.1,8.8,11.4,Kalio otak masakan,daging sapi
+,,,,,669,193.0,10.6,12.4,9.7,Kalio telur masakan,Telur
+,,,,,670,149.0,16.6,9.2,0.0,Kambing daging segar,"daging sapi, sayuran"
+,,,,,671,164.0,3.0,2.4,32.6,Kambose,sayuran
+,,,,,672,29.0,3.0,0.3,5.4,Kangkung,sayuran
+,,,,,673,30.0,3.2,0.7,4.7,Kangkung kukus,sayuran
+,,,,,674,22.0,2.5,0.6,3.1,Kangkung rebus,sayuran
+,,,,,675,43.0,1.8,0.2,8.4,Kangkung tondano,sayuran
+,,,,,676,52.0,1.8,3.6,3.0,Kangkung tumis,sayuran
+,,,,,677,38.0,2.4,2.0,2.6,Kaparende sayur,sayuran
+,,,,,678,42.0,3.3,0.2,9.6,Kapri Muda,sayuran
+,,,,,679,41.0,2.0,0.3,7.8,Kapurung,sayuran
+,,,,,680,158.0,4.4,3.2,27.8,Kapusa,sayuran
+,,,,,681,25.0,2.3,0.2,3.5,Karawila,sayuran
+,,,,,682,146.7,5.9,5.9,19.7,Karedok ,sayuran
+,,,,,683,92.0,2.2,3.3,14.1,Karedok sayur,sayuran
+,,,,,684,292.0,11.2,11.2,2.8,Karoket ,sayuran
+,,,,,685,73.0,16.4,0.3,0.0,Katak,sayuran
+,,,,,686,275.0,12.6,14.8,54.6,Katul Beras,sayuran
+,,,,,687,356.0,9.0,8.5,64.5,Katul Jagung,sayuran
+,,,,,688,120.0,3.5,2.5,20.8,Kawista segar,sayuran
+,,,,,689,46.0,5.7,1.3,9.0,Kecap,Kedelai
+,,,,,690,464.0,1.2,18.6,73.0,Kecimpring singkong goreng,sayuran
+,,,,,691,405.0,32.8,17.0,36.5,Kecipir biji,sayuran
+,,,,,692,35.0,2.9,0.2,0.8,Kecipir buah muda,sayuran
+,,,,,693,32.0,2.9,0.2,5.8,Kecipir muda segar,sayuran
+,,,,,694,34.0,0.9,1.0,6.7,Kecombrang segar,sayuran
+,,,,,695,47.0,0.5,0.2,10.4,Kedondong segar ,sayuran
+,,,,,696,326.0,22.8,20.3,13.1,Keju,Susu sapi
+,,,,,697,590.0,27.0,49.0,20.9,Keju Kacang Tanah,"Susu sapi, Kacang "
+,,,,,698,623.0,2.0,52.1,36.5,Kelapa hutan kering,sayuran
+,,,,,699,17.0,0.2,0.1,3.8,Kelapa Muda air,sayuran
+,,,,,700,68.0,1.0,0.9,14.0,Kelapa Muda daging,sayuran
+,,,,,701,180.0,4.0,15.0,10.0,Kelapa Setengah Tua daging,sayuran
+,,,,,702,359.0,3.4,34.7,14.0,Kelapa Tua daging,sayuran
+,,,,,703,214.0,5.4,5.4,40.2,Kelepon ,sayuran
+,,,,,704,111.0,1.5,0.3,27.2,Kelewih,sayuran
+,,,,,705,142.0,16.9,7.8,0.0,Kelinci daging segar,sayuran
+,,,,,706,48.0,1.0,0.2,11.9,Kemang,sayuran
+,,,,,707,380.0,48.9,13.8,23.3,Kembang tahu,Kedelai
+,,,,,708,44.0,1.8,0.6,9.6,Kembang Turi,sayuran
+,,,,,709,636.0,19.0,63.0,8.0,Kemiri,sayuran
+,,,,,710,657.0,15.0,66.0,13.0,Kenari,sayuran
+,,,,,711,616.0,13.9,56.2,13.7,Kenari banda kering,sayuran
+,,,,,712,83.0,2.0,0.1,19.1,Kentang,sayuran
+,,,,,713,142.0,0.9,0.4,33.7,Kentang Hitam,sayuran
+,,,,,714,64.0,12.0,1.0,2.0,Keong,Seafood
+,,,,,715,204.0,2.6,20.0,4.0,Kepala Susu (Krim),"Susu sapi, sayuran"
+,,,,,716,151.0,13.8,3.8,14.1,Kepiting,Seafood
+,,,,,717,59.0,18.0,1.1,3.6,Kerang,Seafood
+,,,,,718,393.0,38.9,13.3,29.4,Kerang asap mentah,Seafood
+,,,,,719,357.0,41.1,10.0,25.6,Kerang dendeng mentah,Seafood
+,,,,,720,79.0,18.7,0.5,0.0,Kerbau daging segar,"daging sapi, sayuran"
+,,,,,721,475.0,1.6,25.5,64.4,Keremes,sayuran
+,,,,,722,137.0,1.3,1.1,29.8,Keribang ubi segar,sayuran
+,,,,,723,586.0,4.9,40.6,50.2,Keripik bayam,"daging ayam, sayuran"
+,,,,,724,446.0,2.8,14.5,76.0,Keripik gadung,sayuran
+,,,,,725,448.0,2.7,18.8,67.1,Keripik kentang,sayuran
+,,,,,726,485.0,1.7,22.2,69.7,Keripik lampung,sayuran
+,,,,,727,598.0,8.3,43.8,42.6,Keripik oncom,sayuran
+,,,,,728,478.0,0.9,20.7,72.0,Keripik singkong,sayuran
+,,,,,729,481.0,2.2,19.7,73.6,Keripik singkong berbumbu,sayuran
+,,,,,730,581.0,12.1,40.6,41.7,Keripik tempe,"Kedelai, sayuran"
+,,,,,731,542.0,40.3,42.4,11.6,Keripik tempe abadi murni,"Kedelai, sayuran"
+,,,,,732,510.0,12.3,27.9,52.4,Keripik tempe abadi sedang,"Kedelai, sayuran"
+,,,,,733,529.0,20.8,31.7,40.2,Keripik tempe abadi telur,"Telur, Kedelai, sayuran"
+,,,,,734,486.0,0.2,23.9,67.6,Keripik ubi,sayuran
+,,,,,735,26.0,1.7,0.4,3.8,Kerokot segar,sayuran
+,,,,,736,350.0,0.5,0.2,85.9,Kerupuk Aci,sayuran
+,,,,,737,444.0,6.9,14.6,71.3,Kerupuk cumi goreng,"Seafood, Gandum, sayuran"
+,,,,,738,342.0,16.0,0.4,65.6,Kerupuk Ikan berpati,"Ikan, sayuran"
+,,,,,739,325.0,1.8,0.4,78.5,Kerupuk kemplang  (ikan) mentah,"Ikan, sayuran"
+,,,,,740,504.0,5.6,28.1,57.1,Kerupuk kemplang goreng,sayuran
+,,,,,741,356.0,9.7,1.1,76.9,Kerupuk kemplang panggang,sayuran
+,,,,,742,422.0,83.0,4.0,0.0,Kerupuk Kulit kerbau,"daging sapi, sayuran"
+,,,,,743,345.0,12.0,1.5,71.5,Kerupuk Melinjo mentah,sayuran
+,,,,,744,431.0,11.1,16.2,63.0,Kerupuk Melinjo tebal goreng asin,sayuran
+,,,,,745,439.0,10.0,16.4,65.7,Kerupuk Melinjo tebal goreng manis,sayuran
+,,,,,746,485.0,11.5,24.5,59.1,Kerupuk Melinjo tipis goreng,sayuran
+,,,,,747,476.0,0.1,21.1,71.3,Kerupuk mie kuning goreng,"Gandum, sayuran"
+,,,,,748,46.7,17.3,17.3,81.3,Kerupuk Sayong ,sayuran
+,,,,,749,340.0,30.0,30.0,52.0,Kerupuk Udang ,"Seafood, sayuran"
+,,,,,750,359.0,17.2,68.2,332.0,Kerupuk Udang berpati,"Seafood, sayuran"
+,,,,,751,477.0,4.7,20.5,68.5,Kerupuk udang goreng,"Seafood, sayuran"
+,,,,,752,588.0,53.7,40.9,1.2,Kerupuk urat,sayuran
+,,,,,753,78.0,0.8,0.4,20.0,Kesemek,sayuran
+,,,,,754,181.0,4.0,1.2,37.3,Ketan hitam matang,sayuran
+,,,,,755,163.0,3.0,0.4,35.7,Ketan putih matang,sayuran
+,,,,,756,340.0,11.0,11.0,54.0,Ketapang ,sayuran
+,,,,,757,157.0,0.8,0.3,37.9,Ketela Pohon Kuning,sayuran
+,,,,,758,154.0,1.0,0.3,36.8,Ketela singkong segar,sayuran
+,,,,,759,153.0,1.2,0.3,36.4,Ketela pohon/singkong kukus,sayuran
+,,,,,760,12.0,0.7,0.1,2.7,Ketimun,sayuran
+,,,,,761,9.0,0.5,0.1,1.9,Ketimun madura segar,sayuran
+,,,,,762,153.0,7.9,7.7,13.0,Ketoprak,sayuran
+,,,,,763,404.0,14.1,16.1,54.2,Ketumbar,sayuran
+,,,,,764,212.0,4.0,4.6,38.6,Ketupat ketan,sayuran
+,,,,,765,109.6,2.6,2.6,18.6,Ketupat Tahu ,"Kedelai, sayuran"
+,,,,,766,310.0,10.0,24.0,13.5,Kluwek,sayuran
+,,,,,767,73.0,16.4,0.3,0.0,Kodok segar,sayuran
+,,,,,768,86.0,1.6,0.2,13.0,Kokosan,sayuran
+,,,,,769,99.0,3.3,0.1,21.2,Komak polong segar,sayuran
+,,,,,770,25.0,2.4,0.2,4.9,Kool Kembang,sayuran
+,,,,,771,24.0,1.4,0.2,5.3,Kool Merah kool putih,sayuran
+,,,,,772,352.0,17.4,1.3,69.0,Kopi bagian yang larut,sayuran
+,,,,,773,129.0,12.3,0.5,35.0,Kopi bubuk instant,sayuran
+,,,,,774,356.0,20.5,4.1,61.6,Koro andong kering,sayuran
+,,,,,775,332.0,24.0,3.0,55.0,Koro Benguk biji,sayuran
+,,,,,776,141.0,10.2,1.3,23.2,Koro Benguk tempe,"Kedelai, sayuran"
+,,,,,777,125.0,8.3,0.7,22.1,Koro Kerupuk biji,sayuran
+,,,,,778,33.0,2.7,0.2,7.9,Koro Loke biji,sayuran
+,,,,,779,344.0,12.5,2.1,69.4,Koro Roway biji,sayuran
+,,,,,780,338.0,22.2,1.5,61.0,Koro Wedus biji,sayuran
+,,,,,781,38.0,3.0,0.3,7.9,Koro Wedus buah muda,sayuran
+,,,,,782,46.0,3.0,0.3,7.9,Koro wedus polong,sayuran
+,,,,,783,46.0,2.2,1.5,6.0,Kotiu hinela tawang nggole,sayuran
+,,,,,784,366.0,4.2,4.3,77.5,Koya,sayuran
+,,,,,785,370.0,8.0,1.0,82.2,Koya mirasa,sayuran
+,,,,,786,315.0,2.1,1.4,73.5,Kranji segar,sayuran
+,,,,,787,542.0,40.3,42.4,11.5,Kripik Tempe Goreng ,Kedelai
+,,,,,788,21.0,1.7,0.4,3.8,Krokot,sayuran
+,,,,,789,45.0,2.2,0.3,10.3,Kucai,sayuran
+,,,,,790,42.0,3.8,0.6,7.8,Kucai Muda (Lokio),sayuran
+,,,,,791,113.0,18.1,4.1,0.9,Kuda daging segar,"daging sapi, sayuran"
+,,,,,792,440.0,3.8,18.5,64.5,Kue ali,sayuran
+,,,,,793,186.7,1.6,1.6,39.6,Kue Apem ,sayuran
+,,,,,794,338.0,1.5,1.2,80.3,Kue bangket,sayuran
+,,,,,795,240.0,1.0,4.0,54.0,Kue Bugis ,sayuran
+,,,,,796,425.0,1.6,8.8,84.6,Kue jahe,sayuran
+,,,,,797,591.0,5.6,42.1,47.5,Kue kelapa,sayuran
+,,,,,798,366.0,4.2,4.3,7.9,Kue Koya ,sayuran
+,,,,,799,291.0,3.6,11.1,44.1,Kue lumpur,sayuran
+,,,,,800,182.0,1.0,1.0,40.4,Kue mangkok ,sayuran
+,,,,,801,126.7,0.7,0.7,57.3,Kue Pacar Cina ,sayuran
+,,,,,802,296.0,1.4,1.4,66.4,Kue Pia ,sayuran
+,,,,,803,304.0,5.3,7.0,54.9,Kue putu cangkir,sayuran
+,,,,,804,217.0,1.2,0.5,53.2,Kue putu singkong,sayuran
+,,,,,805,393.3,2.7,2.7,79.3,Kue Satu ,sayuran
+,,,,,806,380.0,1.0,1.0,92.0,Kue Semprong ,sayuran
+,,,,,807,221.0,7.5,10.2,24.8,Kue sus,sayuran
+,,,,,808,180.0,5.0,5.0,32.0,Kue Talam ,sayuran
+,,,,,809,512.0,26.0,26.0,60.4,Kue Tambang ,sayuran
+,,,,,810,247.0,2.9,4.2,49.5,Kue thipan,sayuran
+,,,,,811,111.0,4.5,1.1,20.7,Kulit melinjo,sayuran
+,,,,,812,22.0,0.4,0.2,4.7,Kundur segar,sayuran
+,,,,,813,63.0,2.0,2.7,9.1,Kunyit,sayuran
+,,,,,814,83.0,19.1,0.2,0.0,Kura-kura,sayuran
+,,,,,815,515.0,30.6,42.1,13.8,Kwaci,sayuran
+,,,,,816,242.0,19.0,17.0,3.0,Kwark (Quark),Susu sapi
+,,,,,817,17.0,0.6,0.2,3.8,Labu Air,sayuran
+,,,,,818,51.0,1.7,0.5,10.0,Labu kuning segar,sayuran
+,,,,,819,26.0,0.6,0.1,6.7,Labu Siam,sayuran
+,,,,,820,32.0,1.1,0.1,6.6,Labu waluh segar,sayuran
+,,,,,821,166.3,2.7,3.9,29.5,Laksa ,sayuran
+,,,,,822,85.0,5.7,0.3,15.4,Lamtoro (pete cina) biji muda,sayuran
+,,,,,823,148.0,10.6,0.5,26.2,Lamtoro biji tua,sayuran
+,,,,,824,142.0,11.0,2.5,20.4,Lamtoro tempe,"Kedelai, sayuran"
+,,,,,825,367.0,46.4,5.4,32.5,Lamtoro var. gung tanpa kulit,sayuran
+,,,,,826,336.0,23.8,1.2,59.7,Lamtoro var. lokal dengan kulit,sayuran
+,,,,,827,56.0,0.9,0.2,14.3,Langsat,"daging ayam, sayuran"
+,,,,,828,34.0,2.2,0.3,5.5,Lantar segar,sayuran
+,,,,,829,422.0,0.9,10.8,80.4,Lanting getuk,sayuran
+,,,,,830,389.0,6.6,15.7,55.5,Lapis legit,sayuran
+,,,,,831,174.0,17.0,10.0,3.0,Lawar babi masakan,daging babi
+,,,,,832,141.0,23.0,1.5,7.6,Lawar penyu masakan,sayuran
+,,,,,833,159.0,5.0,10.9,10.1,Lawara jangang masakan,sayuran
+,,,,,834,207.0,7.4,15.4,9.6,Lawara penjah masakan,sayuran
+,,,,,835,405.0,4.8,5.1,84.9,Ledre pisang,sayuran
+,,,,,836,15.0,1.0,0.4,1.9,Lema/ Rebung asam,sayuran
+,,,,,837,902.0,0.0,100.0,0.0,Lemak Babi,daging babi
+,,,,,838,630.0,9.1,65.0,1.1,Lemak Babi (Bacon),daging babi
+,,,,,839,372.0,12.0,29.4,14.4,Lemak ikan,Ikan
+,,,,,840,818.0,1.5,90.0,0.0,Lemak Kerbau,daging sapi
+,,,,,841,34.0,0.5,0.8,6.2,Lemon segar,sayuran
+,,,,,842,36.0,0.0,0.0,10.0,Lemon Squasih,sayuran
+,,,,,843,30.0,0.0,0.0,8.0,Lemonade,sayuran
+,,,,,844,221.3,3.8,3.6,43.4,Lemper ,sayuran
+,,,,,845,320.0,3.5,5.7,63.7,Lempog durian,sayuran
+,,,,,846,181.0,2.8,1.2,39.8,Lepok/Ubi rumput,sayuran
+,,,,,847,33.0,1.9,0.1,7.4,Leunca buah,sayuran
+,,,,,848,240.0,7.8,0.5,51.3,Leupeut Ketan ,sayuran
+,,,,,849,387.0,16.0,22.0,3.0,Leverwost (sosis hati),"daging sapi, daging babi"
+,,,,,850,79.0,2.3,5.2,5.8,Lilin bungkus gedi,sayuran
+,,,,,851,19.0,0.9,0.1,4.2,Lobak,sayuran
+,,,,,852,217.0,11.0,1.7,5.1,Lokan segar,"Seafood, sayuran"
+,,,,,853,27.0,0.4,0.2,6.0,Lontar segar,sayuran
+,,,,,854,163.3,2.8,2.2,33.0,Lopis ,sayuran
+,,,,,855,38.0,1.1,0.3,7.6,Lumai/Leunca segar,sayuran
+,,,,,856,164.0,1.8,2.1,34.5,Lupis ketan,sayuran
+,,,,,857,294.0,0.3,0.0,79.5,Madu,sayuran
+,,,,,858,341.0,0.3,0.0,85.0,Maizena tepung,sayuran
+,,,,,859,363.0,8.7,0.4,78.7,Makaroni,Gandum
+,,,,,860,63.0,2.4,0.4,12.4,Mangga benggala segar,sayuran
+,,,,,861,44.0,0.7,0.2,11.2,Mangga Gedong,sayuran
+,,,,,862,63.0,0.5,0.2,16.7,Mangga Golek,sayuran
+,,,,,863,46.0,0.4,0.2,11.9,Mangga Harum Manis,sayuran
+,,,,,864,72.0,0.8,0.2,18.7,Mangga Indramayu,sayuran
+,,,,,865,56.0,0.4,0.2,14.6,Mangga Kopek,sayuran
+,,,,,866,86.0,0.7,0.5,19.8,Mangga kwini segar,sayuran
+,,,,,867,133.0,1.0,0.1,32.1,Mangga manalagi segar,sayuran
+,,,,,868,59.0,0.5,0.4,15.1,Mangga Muda,sayuran
+,,,,,869,52.0,0.7,0.0,12.3,Mangga segar,sayuran
+,,,,,870,63.0,0.6,0.6,15.6,Manggis,sayuran
+,,,,,871,720.0,0.6,81.0,0.4,Margarin,Susu sapi
+,,,,,872,144.0,3.5,1.2,29.8,Markisa segar,sayuran
+,,,,,873,217.0,2.5,1.0,49.6,Markisa squash,sayuran
+,,,,,874,104.0,1.2,0.5,23.7,Markisa squash BD,sayuran
+,,,,,875,265.3,4.7,5.5,49.3,Martabak  manis,sayuran
+,,,,,876,153.0,4.5,4.2,24.3,Martabak india,Gandum
+,,,,,877,278.0,5.1,8.6,45.0,Martabak mesir,sayuran
+,,,,,878,200.0,8.9,5.1,29.5,Martabak Telur ,Telur
+,,,,,879,369.0,2.1,7.0,74.1,Masekat,sayuran
+,,,,,880,90.0,1.2,0.1,21.1,Matoa segar,sayuran
+,,,,,881,276.0,0.0,0.1,71.0,Melase,sayuran
+,,,,,882,66.0,5.0,0.7,13.3,Melinjo,sayuran
+,,,,,883,37.0,0.6,0.4,7.8,Melon segar,sayuran
+,,,,,884,322.0,55.8,2.0,22.7,Menjangan daging dendeng mentah,daging sapi
+,,,,,885,725.0,0.5,81.6,1.4,Mentega,Susu sapi
+,,,,,886,65.0,1.7,0.2,16.1,Menteng,sayuran
+,,,,,887,359.0,11.5,6.8,64.4,Merica,sayuran
+,,,,,888,88.0,0.6,3.3,14.0,Mi basah,Gandum
+,,,,,889,71.0,0.2,0.8,15.9,Mi golosor,Gandum
+,,,,,890,339.0,10.0,1.7,6.3,Mi kering,Gandum
+,,,,,891,113.0,3.0,3.2,18.1,Mie aceh rebus,Gandum
+,,,,,892,102.0,6.2,3.9,10.5,Mie ayam,"Gandum, daging ayam"
+,,,,,893,114.0,5.3,3.0,16.4,Mie bakso,Gandum
+,,,,,894,86.0,0.6,3.3,14.0,Mie basah,Gandum
+,,,,,895,353.0,0.3,0.0,88.0,Mie Bendo,Gandum
+,,,,,896,102.0,3.0,2.1,17.8,Mie celon,Gandum
+,,,,,897,468.0,7.6,20.4,62.4,Mie Goreng ,Gandum
+,,,,,898,337.0,7.9,11.8,50.0,Mie kering,Gandum
+,,,,,899,105.0,5.9,4.9,9.4,Mie pangsit basah,Gandum
+,,,,,900,190.0,0.2,0.4,46.5,Mie Sagu,Gandum
+,,,,,901,902.0,0.0,100.0,0.0,Minyak Hati Hiu (Eulamia),Ikan
+,,,,,902,902.0,0.0,100.0,0.0,Minyak Ikan,Ikan
+,,,,,903,902.0,0.0,100.0,0.0,Minyak Kacang Tanah,Kacang
+,,,,,904,883.0,0.0,99.9,0.0,Minyak kedelai,Kedelai
+,,,,,905,870.0,1.0,98.0,0.0,Minyak Kelapa,sayuran
+,,,,,906,902.0,0.0,100.0,0.0,Minyak Kelapa Sawit,sayuran
+,,,,,907,902.0,0.0,100.0,0.0,Minyak Wijen,Wijen
+,,,,,908,884.0,0.0,100.0,0.0,Minyak Zaitun,sayuran
+,,,,,909,345.0,8.5,2.2,78.0,Misoa,"Gandum, Kedelai"
+,,,,,910,218.0,0.8,16.0,50.2,Misro ,sayuran
+,,,,,911,128.0,8.0,10.0,1.3,Moon tahu,Kedelai
+,,,,,912,33.0,2.3,0.5,4.7,Mostarda metan -sawi,sayuran
+,,,,,913,330.0,17.8,23.4,12.1,Mujahir acar kuning masakan,sayuran
+,,,,,914,478.0,38.3,33.9,5.1,Naan maran sapi masakan,"Ikan, Gandum, daging sapi"
+,,,,,915,52.0,0.4,0.2,13.7,Nanas,sayuran
+,,,,,916,58.0,0.7,0.2,13.3,Nanas palembang segar,sayuran
+,,,,,917,165.0,4.2,0.1,36.7,Nangka biji,sayuran
+,,,,,918,106.0,1.2,0.3,27.6,Nangka masak di pohon,sayuran
+,,,,,919,51.0,2.0,0.4,11.3,Nangka Muda,sayuran
+,,,,,920,180.0,3.0,0.3,39.8,Nasi,sayuran
+,,,,,921,149.0,2.8,0.4,32.5,Nasi beras merah,sayuran
+,,,,,922,192.0,3.8,8.8,24.4,Nasi gemuk,sayuran
+,,,,,923,276.0,3.2,3.2,30.2,Nasi Goreng ,sayuran
+,,,,,924,190.0,4.7,7.5,26.0,Nasi gurih,sayuran
+,,,,,925,357.0,8.8,0.5,79.5,Nasi jagung,sayuran
+,,,,,926,207.0,3.5,5.0,37.1,Nasi minyak,sayuran
+,,,,,927,155.0,10.3,4.2,19.1,Nasi rames,sayuran
+,,,,,928,120.0,2.4,0.4,26.0,Nasi tim,sayuran
+,,,,,929,253.3,4.3,21.0,11.7,Nasi Uduk ,sayuran
+,,,,,930,196.0,14.5,8.3,15.9,Nasu likku masakan,sayuran
+,,,,,931,600.0,14.0,41.7,42.0,Noga Kacang Tanah ,Kacang
+,,,,,932,387.0,5.3,7.6,74.3,Nopia spesial,sayuran
+,,,,,933,9.0,2.1,6.0,7.1,Olah-olah,sayuran
+,,,,,934,187.0,13.0,6.0,22.6,Oncom,sayuran
+,,,,,935,376.0,14.9,6.0,65.7,Oncom ampas kacang hijau,sayuran
+,,,,,936,363.3,19.3,19.3,40.3,Oncom Goreng ,sayuran
+,,,,,937,284.0,12.0,14.4,13.6,Oncom Hitam Goreng ,sayuran
+,,,,,938,306.7,9.0,18.0,27.0,Oncom Hitam Goreng bertepung ,sayuran
+,,,,,939,351.0,11.0,5.3,65.9,Oncom kacang hijau + singkong,sayuran
+,,,,,940,132.0,12.7,3.8,13.7,Oncom Kacang Tanah pepes,"Kacang, sayuran"
+,,,,,941,187.0,13.0,6.0,22.6,Oncom Kedele,"Kedelai, sayuran"
+,,,,,942,368.0,6.8,32.0,13.2,Oncom Merah Goreng ,sayuran
+,,,,,943,320.0,7.3,18.7,31.0,Oncom Merah Goreng bertepung ,sayuran
+,,,,,944,40.0,2.0,2.0,3.0,Oncom Merah Sayur (tumis) ,sayuran
+,,,,,945,76.0,5.2,1.8,10.6,Oncom pepes,sayuran
+,,,,,946,288.6,8.3,8.9,44.3,Onde-onde ,sayuran
+,,,,,947,115.0,1.5,6.0,14.0,Ongol-ongol ,sayuran
+,,,,,948,111.0,0.3,2.7,21.2,Ongol-ongol sagu,sayuran
+,,,,,949,940.0,36.0,42.0,104.0,Opak Singkong ,sayuran
+,,,,,950,117.0,13.7,5.0,4.3,Oramu ninahu ndawa olaho masakan,sayuran
+,,,,,951,125.0,10.4,8.6,0.8,Otak,sayuran
+,,,,,952,351.0,0.9,0.9,84.9,Oyek,sayuran
+,,,,,953,342.0,2.3,0.1,83.1,Oyek (dari singkong),sayuran
+,,,,,954,77.0,3.5,4.6,5.4,Paku hinela wulelenggapaya,"Ikan, sayuran"
+,,,,,955,494.0,7.5,36.4,40.1,Pala biji,sayuran
+,,,,,956,42.0,0.3,0.2,10.9,Pala daging,sayuran
+,,,,,957,460.0,28.5,35.2,7.2,Paniki masak santan masakan,"daging ayam, sayuran"
+,,,,,958,133.8,3.0,1.6,27.0,Papais ,sayuran
+,,,,,959,61.0,0.2,0.1,14.9,Papeda,sayuran
+,,,,,960,87.0,10.5,2.5,5.5,Parede baleh masakan,sayuran
+,,,,,961,29.0,1.1,0.3,6.6,Paria (Pare),sayuran
+,,,,,962,16.0,0.8,0.2,3.4,Paria Putih kukus,sayuran
+,,,,,963,19.0,1.0,0.4,3.6,Paria putih segar,sayuran
+,,,,,964,307.0,4.5,13.3,42.4,Pastel,Gandum
+,,,,,965,362.0,0.5,0.3,86.9,Pati Singkong (tapioka),sayuran
+,,,,,966,23.0,1.8,0.3,4.5,Pe-Cay,sayuran
+,,,,,967,156.0,28.0,4.0,0.0,Peda Ikan Banjar,Ikan
+,,,,,968,75.0,2.5,2.8,10.0,Pelecing kangkung,sayuran
+,,,,,969,219.0,19.7,13.6,4.4,Pelepah manuk masakan,sayuran
+,,,,,970,162.0,4.9,3.0,27.8,Pempek adaan,Ikan
+,,,,,971,156.0,4.2,1.4,31.6,Pempek belida,Ikan
+,,,,,972,152.0,4.5,2.3,28.2,Pempek kapal selam,Ikan
+,,,,,973,211.0,12.3,6.1,26.6,Pempek kelesan,Ikan
+,,,,,974,243.0,5.2,7.3,39.1,Pempek kulit,Ikan
+,,,,,975,173.0,7.2,1.2,33.4,Pempek tenggiri,Ikan
+,,,,,976,372.0,7.8,36.3,3.5,Pencok lele masakan,Ikan
+,,,,,977,174.0,13.1,12.2,2.2,Penyu serapah masakan,sayuran
+,,,,,978,19.0,0.6,0.1,3.9,Pepare ular segar,sayuran
+,,,,,979,275.0,11.6,11.6,30.2,Pepaya lodeh,sayuran
+,,,,,980,26.0,2.1,0.1,4.9,Pepaya Muda,sayuran
+,,,,,981,46.0,0.5,12.0,12.2,Pepaya segar,sayuran
+,,,,,982,76.0,5.2,1.8,10.6,Pepea oncom ampas tahu,"Kedelai, sayuran"
+,,,,,983,400.0,0.0,0.0,95.0,Permen ,sayuran
+,,,,,984,142.0,10.4,2.0,22.0,Pete Segar,sayuran
+,,,,,985,50.0,3.7,1.0,9.0,Peterseli,sayuran
+,,,,,986,161.0,20.0,0.2,24.0,Petis Ikan,Ikan
+,,,,,987,220.0,15.0,0.1,40.0,Petis Udang,Seafood
+,,,,,988,345.0,23.8,1.4,59.3,Petis udang kering,Seafood
+,,,,,989,220.0,15.0,0.9,38.0,Petis udang pasta,"Seafood, Gandum"
+,,,,,990,514.0,1.0,27.8,647.0,Pilus ,Gandum
+,,,,,991,107.0,15.9,0.6,0.4,Pinda masakan,sayuran
+,,,,,992,157.0,28.0,4.2,0.0,Pindang Ikan Banjar,Ikan
+,,,,,993,170.0,31.0,4.2,0.0,Pindang Ikan Benggol,Ikan
+,,,,,994,153.0,30.0,2.8,0.0,Pindang Ikan Layang,Ikan
+,,,,,995,142.0,27.0,3.0,0.0,Pindang Ikan Selar Kecil,Ikan
+,,,,,996,124.0,9.5,9.6,0.0,Pindang kenari masakan,"Ikan, sayuran"
+,,,,,997,99.0,1.2,0.2,25.8,Pisang Ambon,sayuran
+,,,,,998,68.0,1.3,0.2,17.2,Pisang angleng (pisang ampyang) segar,sayuran
+,,,,,999,120.0,1.1,0.2,26.8,Pisang ayam segar,"daging ayam, sayuran"
+,,,,,1000,127.0,2.1,0.3,31.1,Pisang gapi segar ,sayuran
+,,,,,1001,220.0,2.3,2.3,6.3,Pisang Goreng ,sayuran
+,,,,,1002,115.0,1.9,0.2,27.9,Pisang goroho segar,sayuran
+,,,,,1003,117.0,2.0,0.3,28.9,Pisang hijau segar,sayuran
+,,,,,1004,100.0,1.4,0.5,23.6,Pisang kayu segar,sayuran
+,,,,,1005,109.0,0.8,0.5,26.3,Pisang kepok segar,sayuran
+,,,,,1006,145.0,1.1,0.3,34.5,Pisang ketip segar,sayuran
+,,,,,1007,96.0,1.0,0.2,22.5,Pisang kidang segar,sayuran
+,,,,,1008,99.0,1.3,0.2,25.6,Pisang Lampung,sayuran
+,,,,,1009,127.0,1.4,0.2,33.6,Pisang Mas,sayuran
+,,,,,1010,127.0,1.4,0.2,31.8,Pisang mas bali,sayuran
+,,,,,1011,134.0,1.1,0.5,35.5,Pisang Oli,sayuran
+,,,,,1012,120.0,1.2,0.2,31.8,Pisang Raja,sayuran
+,,,,,1013,118.0,1.2,0.2,31.1,Pisang Raja Sere (Susu),"Susu sapi, sayuran"
+,,,,,1014,98.0,1.3,1.2,20.5,Pisang rotan segar,sayuran
+,,,,,1015,625.0,1.0,0.0,8.1,Pisang Siam goreng,sayuran
+,,,,,1016,113.0,1.2,0.2,26.7,Pisang talas segar,sayuran
+,,,,,1017,45.0,2.2,0.3,10.3,Prey (bawang daun),sayuran
+,,,,,1018,33.0,4.5,0.4,2.8,Pucuk lumai/daun leunca segar,sayuran
+,,,,,1019,216.0,2.6,3.1,44.4,Pulut,sayuran
+,,,,,1020,224.0,26.2,11.3,4.4,Punai daging goreng,daging ayam
+,,,,,1021,104.0,1.9,4.1,15.1,Pundut nasi,sayuran
+,,,,,1022,25.0,1.5,0.5,3.6,Purundawa,sayuran
+,,,,,1023,76.0,4.1,1.1,15.2,Purut segar,sayuran
+,,,,,1024,76.0,3.6,0.3,14.6,Putri malu segar,sayuran
+,,,,,1025,163.0,2.2,6.5,23.8,Putri selat,sayuran
+,,,,,1026,200.0,1.0,2.4,43.8,Putu Mayang ,sayuran
+,,,,,1027,136.0,43.0,2.4,3.0,Ragi,sayuran
+,,,,,1028,76.0,12.1,2.0,2.4,Rajungan segar,"Seafood, sayuran"
+,,,,,1029,69.0,0.9,0.1,18.1,Rambutan,sayuran
+,,,,,1030,11.0,0.0,0.0,2.7,Rambutan Aceh,sayuran
+,,,,,1031,76.0,0.5,0.2,18.0,Rambutan binjai segar,sayuran
+,,,,,1032,4.0,0.0,0.0,0.9,Rambutan sinyonya,sayuran
+,,,,,1033,295.0,7.3,8.5,47.5,Rarawuan ,sayuran
+,,,,,1034,394.0,2.2,8.8,76.6,Rasbi (Beras Ubi),sayuran
+,,,,,1035,350.0,0.9,0.4,85.7,Rasi (Beras Singkong),sayuran
+,,,,,1036,60.0,5.4,2.5,4.0,Rawon masakan,daging sapi
+,,,,,1037,81.0,16.2,1.2,0.7,Rebon (udang kecil segar),"Seafood, sayuran"
+,,,,,1038,299.0,29.4,3.6,3.2,Rebon kering,Seafood
+,,,,,1039,81.0,16.2,1.2,0.7,Rebon udang kecil segar,"Seafood, sayuran"
+,,,,,1040,27.0,0.6,0.3,5.2,Rebung,sayuran
+,,,,,1041,320.0,7.2,4.2,63.3,Rebung laut mentah,sayuran
+,,,,,1042,451.0,11.2,20.2,59.7,Rempeyek kacang tolo,"Kacang, sayuran"
+,,,,,1043,497.0,17.0,27.6,50.8,Rempeyek kacang uci,Kacang
+,,,,,1044,193.0,22.6,7.9,7.8,Rendang sapi masakan,daging sapi
+,,,,,1045,471.0,4.7,21.8,64.1,Renggi goreng,sayuran
+,,,,,1046,75.0,1.6,0.6,15.8,Rimbang segar,sayuran
+,,,,,1047,335.0,5.3,3.5,70.5,Risoles ,Gandum
+,,,,,1048,341.0,5.5,16.2,43.3,Roti boong,Gandum
+,,,,,1049,350.0,7.5,2.0,75.5,Roti Gambang ,Gandum
+,,,,,1050,248.0,8.0,1.2,50.0,Roti Putih,Gandum
+,,,,,1051,249.0,7.9,1.5,49.7,Roti warna sawo matang,"Gandum, sayuran"
+,,,,,1052,153.0,11.3,8.4,8.0,Rujak cingur,sayuran
+,,,,,1053,41.0,1.4,0.3,8.1,Rumput laut,sayuran
+,,,,,1054,536.0,40.5,41.5,0.0,Rusa daging dendeng mentah,daging sapi
+,,,,,1055,110.0,11.5,2.0,11.7,Rusip,Ikan
+,,,,,1056,198.0,24.6,10.7,0.9,RW anjing masakan,daging babi
+,,,,,1057,449.0,30.6,25.5,31.9,Saga biji tanpa kulit,sayuran
+,,,,,1058,338.0,0.6,0.3,83.1,Sagu Ambon ,sayuran
+,,,,,1059,355.0,0.6,1.1,85.6,Sagu aren kering,sayuran
+,,,,,1060,231.0,0.6,0.2,56.6,Sagu aren segar,sayuran
+,,,,,1061,291.0,0.5,4.0,63.4,Sagu forno,sayuran
+,,,,,1062,230.0,0.6,0.2,56.5,Sagu kasbi segar,sayuran
+,,,,,1063,452.0,2.8,14.8,76.8,Sagu Lemak (Kue Sagon),sayuran
+,,,,,1064,347.0,0.9,0.3,85.2,Sagu lempeng,sayuran
+,,,,,1065,364.0,0.1,0.2,90.5,Sagu Rendang,sayuran
+,,,,,1066,362.0,0.5,0.3,86.9,Sagu singkong kering,sayuran
+,,,,,1067,354.0,0.8,8.3,68.9,Sagu sinole,sayuran
+,,,,,1068,57.0,0.5,0.1,13.6,Salak bali segar,sayuran
+,,,,,1069,55.0,0.4,0.2,12.8,Salak medan segar,sayuran
+,,,,,1070,87.0,0.8,0.4,20.1,Salak pondoh segar,sayuran
+,,,,,1071,281.0,2.4,0.7,66.1,Sale pisang siam,sayuran
+,,,,,1072,122.0,2.0,10.0,7.6,Santan (dengan air),sayuran
+,,,,,1073,324.0,4.2,34.3,55.6,Santan (kelapa saja),sayuran
+,,,,,1074,324.0,4.2,34.3,5.6,Santan murni,sayuran
+,,,,,1075,98.0,2.0,0.4,24.5,Saos Tomat,sayuran
+,,,,,1076,212.0,18.0,10.6,59.3,Sapi abon,daging sapi
+,,,,,1077,108.0,17.6,4.2,0.0,Sapi babat segar,"daging sapi, sayuran"
+,,,,,1078,182.0,32.0,6.0,0.0,Sapi daging asap,daging sapi
+,,,,,1079,301.0,55.0,9.0,0.0,Sapi daging dendeng mentah,daging sapi
+,,,,,1080,273.0,17.5,22.0,0.0,Sapi daging gemuk segar,"daging sapi, sayuran"
+,,,,,1081,289.0,16.0,25.0,0.0,Sapi daging kornet,daging sapi
+,,,,,1082,174.0,19.6,10.0,0.0,Sapi daging kurus segar,"daging sapi, sayuran"
+,,,,,1083,201.0,18.8,14.0,0.0,Sapi daging lemak sedang segar,"daging sapi, sayuran"
+,,,,,1084,448.0,14.5,42.3,2.3,Sapi daging sosis (Worst),daging sapi
+,,,,,1085,183.0,12.0,14.4,1.4,Sapi daleman segar,"daging sapi, sayuran"
+,,,,,1086,98.0,21.9,1.1,0.0,Sapi dideh/darah,daging sapi
+,,,,,1087,137.0,15.0,8.1,0.9,Sapi ginjal segar,"daging sapi, sayuran"
+,,,,,1088,274.0,16.0,22.0,3.0,Sapi hati sosis (liverworst),daging sapi
+,,,,,1089,84.0,10.5,4.6,0.2,Sapi keleponan segar,"daging sapi, sayuran"
+,,,,,1090,132.0,19.7,3.2,6.0,Sapi liver segar,"daging sapi, sayuran"
+,,,,,1091,123.0,10.4,8.6,0.8,Sapi otak segar,"daging sapi, sayuran"
+,,,,,1092,360.0,57.3,6.0,19.2,Sapi paru dendeng mentah,daging sapi
+,,,,,1093,268.0,23.9,12.7,14.5,Sapi paru goreng,daging sapi
+,,,,,1094,126.0,14.0,7.2,1.5,Sapi usus segar,"daging sapi, sayuran"
+,,,,,1095,281.0,37.5,0.3,32.1,Sarang Burung,"Seafood, sayuran"
+,,,,,1096,338.0,21.1,27.0,1.0,Sardines dalam kaleng,Ikan
+,,,,,1097,344.0,30.0,20.0,43.0,Sari Kedelai bubuk,Kedelai
+,,,,,1098,166.0,2.3,2.8,32.9,Sarimuka,sayuran
+,,,,,1099,283.0,12.1,16.8,20.9,Sate Bandeng,Ikan
+,,,,,1100,110.0,15.5,0.5,11.5,Sate Kulit ,daging sapi
+,,,,,1101,179.0,22.5,3.5,13.3,Sate penyu masakan,sayuran
+,,,,,1102,274.0,12.9,18.6,13.6,Sate pusut masakan,sayuran
+,,,,,1103,126.7,14.0,7.3,1.3,Sate Usus ,daging sapi
+,,,,,1104,22.0,2.3,0.3,4.0,Sawi,sayuran
+,,,,,1105,9.0,1.0,0.1,1.7,Sawi putih / pecai segar,sayuran
+,,,,,1106,30.0,1.9,0.5,4.4,Sawi taiwan segar,sayuran
+,,,,,1107,19.0,1.3,0.2,2.9,Sawi tanah segar,sayuran
+,,,,,1108,92.0,0.5,1.1,22.4,Sawo,sayuran
+,,,,,1109,64.0,1.0,3.1,8.0,Sawo duren segar,sayuran
+,,,,,1110,111.0,0.9,2.3,21.6,Sawo kecik segar,sayuran
+,,,,,1111,92.0,0.5,1.1,22.4,Sawo Manila segar,sayuran
+,,,,,1112,29.0,0.7,0.6,5.0,Sayur asem,sayuran
+,,,,,1113,49.0,1.7,0.3,9.8,Sayur bunga pepaya,sayuran
+,,,,,1114,178.0,2.6,13.9,10.6,Sayur garu,sayuran
+,,,,,1115,133.0,7.3,6.6,11.2,Sayur kohu-kohu,sayuran
+,,,,,1116,64.0,2.1,0.6,12.5,Sayur lebui,sayuran
+,,,,,1117,36.0,2.7,0.7,4.8,Sayur lilin-terubuk,sayuran
+,,,,,1118,49.0,3.1,2.5,3.6,Sayur ndusuk,sayuran
+,,,,,1119,27.0,1.3,2.0,1.0,Sayur sop,sayuran
+,,,,,1120,67.0,5.2,2.9,5.1,Sayur umbut kelapa,sayuran
+,,,,,1121,57.0,5.4,2.6,3.1,Sayur umbut rotan,sayuran
+,,,,,1122,15.0,1.2,0.2,2.9,Selada,sayuran
+,,,,,1123,17.0,1.7,0.3,3.0,Selada Air,sayuran
+,,,,,1124,19.0,2.7,0.2,2.9,Selada Air rebus,sayuran
+,,,,,1125,20.0,1.0,0.1,4.6,Seledri,sayuran
+,,,,,1126,28.0,0.5,0.2,6.9,Semangka,sayuran
+,,,,,1127,192.5,4.5,6.0,30.3,Semur Jengkol ,sayuran
+,,,,,1128,64.0,0.6,0.3,14.8,Sente,sayuran
+,,,,,1129,353.0,0.7,0.2,84.7,Sente talas segar,sayuran
+,,,,,1130,88.0,7.9,1.6,10.6,Sepi masakan,sayuran
+,,,,,1131,298.0,8.0,23.8,48.9,Serbuk Coklat,sayuran
+,,,,,1132,478.0,2.5,21.2,69.2,Serimping talas kebumen,sayuran
+,,,,,1133,213.0,0.0,0.0,55.0,Setrup sirup,sayuran
+,,,,,1134,88.0,3.2,8.0,0.8,Shabu-shabu,daging sapi
+,,,,,1135,474.0,11.2,42.5,11.7,Sie reuboh masakan,daging sapi
+,,,,,1136,81.0,5.1,4.5,5.1,Singkah (rotan muda),sayuran
+,,,,,1137,285.0,1.0,18.0,28.0,Singkong Goreng ,sayuran
+,,,,,1138,146.0,1.2,0.3,34.7,Singkong kukus,sayuran
+,,,,,1139,173.0,0.5,0.1,42.5,Singkong tape,sayuran
+,,,,,1140,95.3,4.4,2.2,14.4,Siomay ,Ikan
+,,,,,1141,65.0,1.0,0.3,16.3,Sirsak,sayuran
+,,,,,1142,213.0,0.0,0.0,55.0,Sirup,sayuran
+,,,,,1143,71.0,7.5,3.6,2.2,Sop buntut masakan,daging sapi
+,,,,,1144,49.0,5.8,0.5,5.3,Sop daging sapi masakan,daging sapi
+,,,,,1145,68.0,9.0,1.9,3.7,Sop kaki sapi masakan,daging sapi
+,,,,,1146,34.0,5.5,0.8,1.1,Sop kambing masakan,daging sapi
+,,,,,1147,71.0,7.4,2.6,4.5,Sop konro masakan,daging sapi
+,,,,,1148,12.0,0.5,0.1,2.0,Sop Kool,sayuran
+,,,,,1149,15.0,0.6,0.1,3.1,Sop Kool dan Wortel,sayuran
+,,,,,1150,89.0,7.2,5.0,3.9,Sop saudara masakan,daging sapi
+,,,,,1151,42.0,3.9,1.7,2.8,Soto bandung masakan,daging sapi
+,,,,,1152,110.0,2.9,9.5,3.2,Soto banjar masakan,sayuran
+,,,,,1153,135.0,2.5,8.8,11.5,Soto betawi masakan,daging sapi
+,,,,,1154,127.5,2.6,9.4,8.3,Soto dengan Daging,daging sapi
+,,,,,1155,92.0,11.8,4.3,1.4,Soto jeroan masakan,daging sapi
+,,,,,1156,38.0,2.6,2.3,1.8,Soto kudus masakan,sayuran
+,,,,,1157,60.0,3.5,4.5,1.3,Soto madura masakan,"daging sapi, sayuran"
+,,,,,1158,127.0,5.9,6.6,11.0,Soto padang masakan,daging sapi
+,,,,,1159,94.0,3.0,6.8,5.1,Soto pekalongan masakan,sayuran
+,,,,,1160,75.0,3.6,5.2,3.5,Soto pemalang masakan,sayuran
+,,,,,1161,80.0,3.2,3.5,9.0,Soto sukaraja masakan,sayuran
+,,,,,1162,86.0,2.3,8.5,0.0,Soto sulung masakan,sayuran
+,,,,,1163,117.1,0.4,8.6,9.6,Soto tanpa Daging ,sayuran
+,,,,,1164,139.0,7.4,2.1,22.6,Spaghetti,Gandum
+,,,,,1165,101.0,1.7,0.6,35.2,Srikaya,sayuran
+,,,,,1166,75.0,5.6,0.4,12.2,Sukiyaki masakan,daging sapi
+,,,,,1167,119.0,1.4,0.2,28.1,Sukun muda segar,sayuran
+,,,,,1168,126.0,1.6,0.2,24.5,Sukun tua segar,sayuran
+,,,,,1169,418.0,19.0,9.0,65.5,Susu asam untuk bayi bubuk,"Susu sapi, sayuran"
+,,,,,1170,513.0,24.6,30.0,36.2,Susu bubuk,Susu sapi
+,,,,,1171,64.0,4.3,2.3,6.6,Susu Kambing,Susu sapi
+,,,,,1172,41.0,3.5,2.5,5.0,Susu Kedelai,"Susu sapi, Kedelai"
+,,,,,1173,336.0,8.2,10.0,55.0,Susu Kental Manis,Susu sapi
+,,,,,1174,138.0,7.0,7.9,9.9,Susu Kental Tak Manis,Susu sapi
+,,,,,1175,160.0,6.3,12.0,7.1,Susu Kerbau,Susu sapi
+,,,,,1176,61.0,3.2,3.5,4.3,Susu Sapi,Susu sapi
+,,,,,1177,36.0,3.5,0.1,5.1,Susu Skim (tak berlemak),Susu sapi
+,,,,,1178,359.0,35.6,1.0,52.0,Susu skim bubuk,Susu sapi
+,,,,,1179,36.0,3.5,0.1,5.1,Susu skim segar,"Susu sapi, sayuran"
+,,,,,1180,87.0,5.3,5.2,6.3,Susupan,Susu sapi
+,,,,,1181,90.0,1.5,0.1,21.9,Suweg kukus,sayuran
+,,,,,1182,69.0,1.0,0.1,15.7,Suweg mentah,sayuran
+,,,,,1183,74.0,1.4,0.1,17.2,Suweg talas segar,sayuran
+,,,,,1184,347.0,0.5,0.9,84.2,Suwir-suwir,Ikan
+,,,,,1185,68.0,7.8,4.6,1.6,Tahu,Kedelai
+,,,,,1186,115.0,9.7,8.5,2.5,Tahu goreng,Kedelai
+,,,,,1187,328.0,12.6,19.9,24.6,Tahu telur,"Telur, Kedelai"
+,,,,,1188,148.0,13.8,8.5,4.0,Takwa,sayuran
+,,,,,1189,120.0,1.5,0.3,28.2,Talas bogor kukus,sayuran
+,,,,,1190,163.0,2.3,0.5,36.4,Talas pontianak segar,sayuran
+,,,,,1191,115.0,1.8,0.5,25.9,Talas viqueque segar,sayuran
+,,,,,1192,120.0,1.5,0.3,28.2,Tales kukus,sayuran
+,,,,,1193,98.0,1.9,0.2,23.7,Tales mentah,sayuran
+,,,,,1194,166.0,10.4,4.9,24.1,Taoco,Kedelai
+,,,,,1195,88.0,3.2,2.1,14.0,Taoge goreng,sayuran
+,,,,,1196,76.0,9.0,2.6,6.4,Taoge kacang kedelai segar,"Kedelai, sayuran"
+,,,,,1197,28.0,3.0,0.8,4.0,Taoge seduh,sayuran
+,,,,,1198,34.0,3.7,1.2,4.3,Taoge segar,sayuran
+,,,,,1199,104.0,12.9,6.8,1.2,Taokoa,Kedelai
+,,,,,1200,99.0,1.7,0.3,22.4,Tapai beras,sayuran
+,,,,,1201,166.0,3.8,1.0,34.4,Tapai ketan hitam,sayuran
+,,,,,1202,172.0,3.0,0.5,37.5,Tapai ketan putih,sayuran
+,,,,,1203,169.0,1.4,0.3,40.2,Tapai singkong,sayuran
+,,,,,1204,358.0,7.5,4.3,70.4,Tauco cap DAS cake,Kedelai
+,,,,,1205,277.0,9.1,4.7,49.6,Tauji cap singa,Kedelai
+,,,,,1206,25.0,4.6,0.4,3.0,Tebu Terubuk,sayuran
+,,,,,1207,83.0,10.4,3.4,2.8,Tedong pallu basa masakan,sayuran
+,,,,,1208,132.0,19.5,0.7,67.8,Teh,sayuran
+,,,,,1209,300.0,28.3,4.8,53.6,Teh hijau daun kering,sayuran
+,,,,,1210,299.0,24.1,3.5,59.0,Teh melati daun kering,sayuran
+,,,,,1211,34.0,2.0,0.1,7.9,Tekokak,sayuran
+,,,,,1212,294.0,8.3,1.7,72.6,Tekokak kering,sayuran
+,,,,,1213,53.0,1.9,0.9,9.4,Tekwan,Ikan
+,,,,,1214,162.0,12.8,11.5,0.7,Telur Ayam,"Telur, daging ayam"
+,,,,,1215,361.0,19.3,31.9,0.7,Telur Ayam bagian kuning,"Telur, daging ayam"
+,,,,,1216,50.0,10.8,0.0,0.8,Telur Ayam bagian putih,"Telur, daging ayam"
+,,,,,1217,383.0,15.1,32.9,8.3,Telur Ayam ceplok,"Telur, daging ayam"
+,,,,,1218,251.0,16.3,19.4,1.4,Telur Ayam dadar,"Telur, daging ayam"
+,,,,,1219,179.0,13.6,13.3,4.4,Telur ayam kampung ,"Telur, daging ayam"
+,,,,,1220,386.0,17.0,35.0,0.8,Telur bebek bagian kuning segar,"Telur, daging ayam, sayuran"
+,,,,,1221,54.0,11.0,0.0,0.8,Telur Bebek bagian putih,"Telur, daging ayam"
+,,,,,1222,54.0,11.0,0.0,0.8,Telur bebek bagian putih segar,"Telur, daging ayam, sayuran"
+,,,,,1223,320.0,15.1,30.5,0.9,Telur Bebek ceplok,"Telur, daging ayam"
+,,,,,1224,301.0,20.0,23.7,0.0,Telur Bebek dadar,"Telur, daging ayam"
+,,,,,1225,187.0,10.9,12.4,7.9,Telur bebek tambak segar,"Telur, daging ayam, sayuran"
+,,,,,1226,195.0,13.6,13.6,1.4,Telur Bebek telur asin,"Telur, daging ayam"
+,,,,,1227,116.0,10.7,7.0,1.6,Telur burung puyuh segar,"Telur, daging ayam, sayuran"
+,,,,,1228,144.0,12.0,10.2,0.0,Telur Penyu,"Telur, sayuran"
+,,,,,1229,425.0,31.0,28.0,10.0,Telur Terubuk,Telur
+,,,,,1230,119.0,4.4,3.5,18.3,Tempe bongkrek,Kedelai
+,,,,,1231,73.0,5.7,1.3,4.2,Tempe Gembus,Kedelai
+,,,,,1232,76.0,6.8,0.7,10.6,Tempe gembus yogya,Kedelai
+,,,,,1233,328.0,18.4,23.2,12.8,Tempe Goreng ,Kedelai
+,,,,,1234,139.0,12.5,0.8,21.9,Tempe kacang babi,"Kedelai, daging babi, sayuran"
+,,,,,1235,212.0,17.5,10.0,12.9,Tempe kacang belimbing,"Kedelai, sayuran"
+,,,,,1236,143.0,12.0,5.5,11.4,Tempe kedelai + jagung,"Kedelai, sayuran"
+,,,,,1237,350.0,24.5,26.6,10.4,Tempe kedelai murni goreng,Kedelai
+,,,,,1238,201.0,20.8,8.8,13.5,Tempe kedelai murni mentah,Kedelai
+,,,,,1239,141.0,10.2,1.3,23.2,Tempe koro benguk,"Kedelai, sayuran"
+,,,,,1240,146.0,11.7,2.3,19.6,Tempe lamtoro var. gung dengan kulit,"Kedelai, sayuran"
+,,,,,1241,131.0,18.0,0.8,13.0,Tempe lamtoro var. gung tanpa kulit,"Kedelai, sayuran"
+,,,,,1242,150.0,14.0,7.7,9.1,Tempe pasar segar,"Kedelai, sayuran"
+,,,,,1243,336.0,20.0,28.0,7.8,Tempe pasar goreng,Kedelai
+,,,,,1244,240.0,6.0,2.7,49.3,Tempe Sayur ,"Kedelai, sayuran"
+,,,,,1245,110.0,1.7,1.3,21.9,Tempoya,Ikan
+,,,,,1246,126.0,1.1,2.2,25.7,Tempuyak,sayuran
+,,,,,1247,355.0,0.7,0.2,85.2,Tepung Arrowroot,sayuran
+,,,,,1248,364.0,7.0,0.5,80.0,Tepung Beras,sayuran
+,,,,,1249,353.0,7.0,0.5,80.0,Tepung beras mentah,sayuran
+,,,,,1250,353.0,0.8,1.7,83.6,Tepung Ganyong,sayuran
+,,,,,1251,363.0,1.1,0.5,88.2,Tepung Gaplek,sayuran
+,,,,,1252,355.0,0.7,0.2,85.2,Tepung Garut (arrowroot),sayuran
+,,,,,1253,364.0,4.5,1.0,83.5,Tepung Hunkwee,sayuran
+,,,,,1254,316.0,60.1,6.5,22.4,Tepung Ikan,Ikan
+,,,,,1255,355.0,9.2,3.9,73.7,Tepung Jagung Kuning,sayuran
+,,,,,1256,355.0,9.2,3.9,73.7,Tepung jagung putih,sayuran
+,,,,,1257,388.0,19.0,7.5,61.2,Tepung Jalejo,sayuran
+,,,,,1258,347.0,35.9,20.6,29.9,Tepung Kacang Kedelai,Kedelai
+,,,,,1259,347.0,0.3,0.1,85.6,Tepung Kentang,sayuran
+,,,,,1260,350.0,1.2,0.6,85.0,Tepung Mocaf,sayuran
+,,,,,1261,338.0,2.9,0.4,80.6,Tepung Pisang,sayuran
+,,,,,1262,353.0,0.7,0.2,84.7,Tepung Sagu,sayuran
+,,,,,1263,326.0,4.0,0.4,76.7,Tepung Sente,sayuran
+,,,,,1264,363.0,1.1,0.5,88.2,Tepung singkong/ Tapioka,sayuran
+,,,,,1265,353.0,2.9,0.5,84.4,Tepung Sukun,sayuran
+,,,,,1266,509.0,24.6,30.0,36.2,Tepung Susu,Susu sapi
+,,,,,1267,418.0,19.0,9.0,65.5,Tepung Susu Asam untuk bayi,"Susu sapi, sayuran"
+,,,,,1268,362.0,35.6,1.0,52.0,Tepung Susu Skim,Susu sapi
+,,,,,1269,332.0,5.7,0.6,76.1,Tepung Tales Beneng,sayuran
+,,,,,1270,365.0,8.9,1.3,77.3,Tepung Terigu,"Ikan, Gandum"
+,,,,,1271,354.0,2.8,0.6,84.4,Tepung Ubi Ungu,sayuran
+,,,,,1272,155.0,22.3,2.9,9.9,Terasi,Seafood
+,,,,,1273,191.0,33.1,3.6,6.6,Terasi dobo,Seafood
+,,,,,1274,174.0,30.0,3.5,3.5,Terasi Merah,Seafood
+,,,,,1275,174.0,30.0,3.5,5.6,Terasi merah,Seafood
+,,,,,1276,365.0,23.7,22.3,17.5,Teri balado masakan,Ikan
+,,,,,1277,462.0,39.1,32.4,3.5,Teripang dendeng mentah,"Ikan, Seafood"
+,,,,,1278,24.0,1.1,0.2,5.5,Terong,sayuran
+,,,,,1279,285.0,4.3,25.7,9.5,Terong + Oncom makanan,sayuran
+,,,,,1280,39.0,2.3,1.9,2.0,Terong Asam,sayuran
+,,,,,1281,48.0,1.5,0.3,11.3,Terong Belanda,sayuran
+,,,,,1282,45.0,1.9,0.8,7.5,Terong hintalo segar,sayuran
+,,,,,1283,23.0,1.8,0.1,4.9,Terong kukus,sayuran
+,,,,,1284,28.0,1.1,0.2,5.5,Terong segar,sayuran
+,,,,,1285,52.0,2.1,1.1,8.6,Terung belanda segar,sayuran
+,,,,,1286,52.0,1.1,0.4,11.2,Terung bengkulu segar,sayuran
+,,,,,1287,25.0,2.1,0.1,5.3,Terung panjang,sayuran
+,,,,,1288,23.0,1.8,0.1,4.9,Terung panjang kukus,sayuran
+,,,,,1289,59.0,2.9,0.3,13.9,Tespong daun,sayuran
+,,,,,1290,120.0,2.4,0.4,26.0,Tim (nasi tim),sayuran
+,,,,,1291,33.0,1.2,1.3,4.1,Tinira ninahu nggaluku,sayuran
+,,,,,1292,516.0,17.7,49.5,0.0,Tinoransak masakan,sayuran
+,,,,,1293,355.0,6.2,1.2,79.8,Tipa-tipa,sayuran
+,,,,,1294,353.0,2.4,1.1,83.4,Tiwul  ,sayuran
+,,,,,1295,395.0,3.2,8.5,76.5,Tiwul Instan,sayuran
+,,,,,1296,392.0,5.4,28.5,28.4,Toge -Tahu makanan,"Kedelai, sayuran"
+,,,,,1297,93.6,4.4,1.8,15.1,Toge Goreng ,sayuran
+,,,,,1298,23.0,2.9,0.2,4.1,Toge kacang ijo,sayuran
+,,,,,1299,35.0,5.0,0.2,5.8,Toge kacang tunggak,sayuran
+,,,,,1300,67.0,9.0,2.6,6.4,Toge kedelai,"Kedelai, sayuran"
+,,,,,1301,28.0,3.0,0.8,4.0,Toge seduh,sayuran
+,,,,,1302,20.0,1.0,0.2,3.5,Tomat air (juice) segar,sayuran
+,,,,,1303,20.0,1.0,0.3,4.2,Tomat Masak,sayuran
+,,,,,1304,24.0,1.3,0.5,4.7,Tomat merah segar,sayuran
+,,,,,1305,24.0,2.0,0.7,3.3,Tomat muda segar,sayuran
+,,,,,1306,189.0,11.3,15.7,0.6,Tumis bandeng,Ikan
+,,,,,1307,48.0,1.4,4.2,2.6,Tumis bayam bersantan,"daging ayam, sayuran"
+,,,,,1308,186.0,1.9,0.2,44.3,Ubi Cilembu,sayuran
+,,,,,1309,160.0,3.7,1.3,55.3,Ubi Jalar Goreng ,sayuran
+,,,,,1310,100.0,0.7,0.3,23.8,Ubi jalar kuning kukus,sayuran
+,,,,,1311,119.0,0.5,0.4,25.1,Ubi jalar kuning segar,sayuran
+,,,,,1312,83.0,1.5,0.2,18.8,Ubi jalar manis segar,sayuran
+,,,,,1313,123.0,1.8,0.7,27.9,Ubi Jalar Merah,sayuran
+,,,,,1314,151.0,1.6,0.3,35.4,Ubi jalar merah segar,sayuran
+,,,,,1315,123.0,1.8,0.7,27.9,Ubi Jalar Putih,sayuran
+,,,,,1316,114.0,1.4,9.6,25.6,Ubi Jalar Rebus,sayuran
+,,,,,1317,184.0,1.4,0.3,22.5,Ubi Jalar Sayur,sayuran
+,,,,,1318,108.0,0.5,0.4,25.6,Ubi jalar tinta/ kemayung,sayuran
+,,,,,1319,165.0,0.9,0.2,39.8,Ubi jalar tinta/ kemayung kukus,sayuran
+,,,,,1320,82.0,5.8,1.3,11.7,Uceng/ bunga melinjo segar,sayuran
+,,,,,1321,56.0,11.4,0.6,1.2,Udang besar segar,"Seafood, sayuran"
+,,,,,1322,81.0,16.5,0.3,3.0,Udang galah segar,"Seafood, sayuran"
+,,,,,1323,295.0,62.4,2.3,1.8,Udang kering,Seafood
+,,,,,1324,278.0,62.6,4.1,2.2,Udang kering mentah,Seafood
+,,,,,1325,273.0,47.8,3.8,12.5,Udang papay mentah,Seafood
+,,,,,1326,91.0,21.0,0.2,0.1,Udang segar,"Seafood, sayuran"
+,,,,,1327,380.0,11.9,30.3,14.9,Ulat sagu panggang,sayuran
+,,,,,1328,241.0,5.8,21.6,5.8,Ulat sagu segar,sayuran
+,,,,,1329,120.0,2.8,0.5,82.3,Umbi Uwi segar,sayuran
+,,,,,1330,34.0,2.4,0.3,5.5,Umbut rotan,sayuran
+,,,,,1331,130.0,14.0,7.2,1.5,Usus Sapi,daging sapi
+,,,,,1332,101.0,2.0,0.2,19.8,Uwi,sayuran
+,,,,,1333,363.0,8.7,0.4,78.7,Vermicelli,Gandum
+,,,,,1334,303.0,6.3,2.7,63.3,Wajit camilan,sayuran
+,,,,,1335,45.0,0.8,0.9,8.1,Waluh balamak,sayuran
+,,,,,1336,424.0,1.3,10.7,80.7,Widaran,sayuran
+,,,,,1337,568.0,19.3,51.1,18.1,Wijen,Wijen
+,,,,,1338,355.0,3.2,15.1,51.4,Wingko babat,sayuran
+,,,,,1339,143.0,3.1,7.8,15.0,Woku ubi,sayuran
+,,,,,1340,452.0,14.5,42.3,2.3,Worst (sosis daging),daging sapi
+,,,,,1341,42.0,1.2,0.6,9.3,Wortel Segar,sayuran
+,,,,,1342,37.0,1.0,0.6,8.3,Wortel kukus,sayuran
+,,,,,1343,28.0,0.7,0.5,6.3,Wortel rebus,sayuran
+,,,,,1344,254.0,3.0,1.1,58.1,Yangko,sayuran
+,,,,,1345,52.0,3.3,2.5,4.0,Yoghurt,Susu sapi
