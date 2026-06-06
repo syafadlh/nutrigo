@@ -269,69 +269,47 @@
                 </div>
             </section>
         @else
-            <section id="program"
-                class="overflow-hidden rounded-[32px] bg-gradient-to-br from-[#FFF8EE] via-[#F3E8CC] to-[#FFF4D6] p-8 shadow-[0_20px_50px_rgba(24,84,42,0.08)] ring-1 ring-[#F3E8CC]">
-
-                <div class="flex flex-col items-center text-center">
-
-                    <div class="mb-5 flex h-20 w-20 items-center justify-center rounded-full bg-[#FFC926]/20 text-5xl">
-                        🍽️
+<section class="rounded-[28px] bg-[#fff6ea] p-5 shadow-[0_14px_40px_rgba(48,31,10,0.09)] ring-1 ring-black/5 lg:p-6">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <div>
+                        <h2 class="text-3xl font-black text-[#17311f]">Rekomendasi Makanan</h2>
+                        <p class="mt-2 text-sm text-[#726956]">Semua rekomendasi berdasarkan wilayah yang dipilih.</p>
                     </div>
+                </div>
 
-                    <span
-                        class="rounded-full bg-[#FFC926] px-4 py-1 text-xs font-extrabold uppercase tracking-[0.2em] text-[#18542A]">
-                        NutriGo Recommendation
-                    </span>
-
-                    <h2 class="mt-5 text-3xl font-black text-[#18542A] lg:text-4xl">
-                        Rekomendasi Makanan Belum Tersedia
-                    </h2>
-
-                    <p class="mt-4 max-w-2xl text-base leading-7 text-[#6E6658]">
-                        Lengkapi data kesehatanmu terlebih dahulu untuk mendapatkan rekomendasi
-                        makanan yang sesuai dengan kebutuhan kalori dan wilayah tempat tinggalmu.
-                    </p>
-
-                    <div class="mt-8 grid gap-4 sm:grid-cols-3">
-
-                        <div class="rounded-2xl bg-white p-5 shadow-sm">
-                            <div class="text-3xl">📏</div>
-                            <h3 class="mt-3 font-bold text-[#18542A]">
-                                Isi Data Tubuh
-                            </h3>
-                            <p class="mt-2 text-sm text-[#75684F]">
-                                Masukkan usia, tinggi, dan berat badan.
-                            </p>
+                <div class="relative">
+                <div class="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                    @forelse($guestRecommendations as $food)
+                        <article @click="authOpen = true; authTab = 'register'" class="group relative cursor-pointer overflow-hidden rounded-[24px] bg-[#fff4cb] shadow-[0_12px_26px_rgba(56,39,10,0.1)] ring-1 ring-black/5 transition hover:-translate-y-0.5 hover:shadow-[0_18px_30px_rgba(56,39,10,0.14)]">
+                            <div class="relative h-52 overflow-hidden">
+                                <img src="{{ $food->image ? asset($food->image) : asset('assets/salad-sketsa 1.png') }}" alt="{{ $food->name }}" class="h-full w-full object-cover transition duration-300 group-hover:scale-105">
+                                <div class="absolute left-3 top-3 rounded-full bg-[#1d5b2f] px-3 py-1 text-[11px] font-bold uppercase tracking-[0.2em] text-white">{{ strtoupper($food->origin ?? ($guestSummary['province'] ?? 'Menu')) }}</div>
+                                <div class="absolute right-3 top-3 rounded-full bg-[#ffc926] px-3 py-1 text-[11px] font-extrabold text-[#17311f]">{{ number_format($food->calories) }} kcal</div>
+                            </div>
+                            <div class="space-y-3 p-5">
+                                <div>
+                                    <h3 class="text-2xl font-extrabold text-[#245432]">{{ $food->name }}</h3>
+                                    <p class="mt-2 text-sm leading-6 text-[#5d5b51]">{{ $food->composition ?: 'Rekomendasi menu sehat yang bisa disesuaikan setelah data kamu tersimpan.' }}</p>
+                                </div>
+                                <div class="flex gap-3">
+                                    <button type="button" @click.stop="authOpen = true; authTab = 'register'" class="flex-1 rounded-full bg-[#da2d1c] px-4 py-3 text-sm font-bold text-white transition hover:bg-[#c32314]">Pilih Menu</button>
+                                    <button type="button" @click.stop="authOpen = true; authTab = 'register'" class="rounded-full border border-[#1d5b2f] px-4 py-3 text-sm font-bold text-[#1d5b2f] transition hover:bg-white">Detail</button>
+                                </div>
+                            </div>
+                        </article>
+                    @empty
+                        <div class="rounded-[24px] bg-[#fff4cb] p-6 text-[#245432] shadow-[0_12px_26px_rgba(56,39,10,0.1)] ring-1 ring-black/5 sm:col-span-2 xl:col-span-3">
+                            Belum ada rekomendasi untuk wilayah ini.
                         </div>
-
-                        <div class="rounded-2xl bg-white p-5 shadow-sm">
-                            <div class="text-3xl">🏃</div>
-                            <h3 class="mt-3 font-bold text-[#18542A]">
-                                Pilih Aktivitas
-                            </h3>
-                            <p class="mt-2 text-sm text-[#75684F]">
-                                Sesuaikan dengan aktivitas harianmu.
-                            </p>
-                        </div>
-
-                        <div class="rounded-2xl bg-white p-5 shadow-sm">
-                            <div class="text-3xl">🥗</div>
-                            <h3 class="mt-3 font-bold text-[#18542A]">
-                                Dapatkan Menu
-                            </h3>
-                            <p class="mt-2 text-sm text-[#75684F]">
-                                NutriGo akan menghitung dan memberi rekomendasi.
-                            </p>
-                        </div>
-
+                    @endforelse
+                </div>
+                <div class="absolute inset-0 z-20 flex items-center justify-center rounded-[24px] bg-black/35 p-6 backdrop-blur-[1.5px]" @click="authOpen = true; authTab = 'register'">
+                    <div class="max-w-xl rounded-[22px] border border-white/25 bg-white/12 px-6 py-5 text-center text-white shadow-[0_20px_40px_rgba(0,0,0,0.2)] backdrop-blur-sm">
+                        <p class="text-sm font-bold uppercase tracking-[0.2em] text-white/80">Rekomendasi Terkunci</p>
+                        <p class="mt-2 text-lg font-black leading-tight">Masuk / Daftar untuk melihat rekomendasi lengkap</p>
+                        <button type="button" @click.stop="authOpen = true; authTab = 'register'" class="mt-4 rounded-full bg-[#f55c1f] px-5 py-2.5 text-sm font-extrabold text-white transition hover:brightness-105">Masuk / Daftar</button>
                     </div>
-
-                    <a href="#data-kesehatan"
-                        class="mt-8 inline-flex items-center gap-2 rounded-full bg-[#F96015] px-6 py-3 text-sm font-extrabold text-white shadow-lg transition hover:scale-105 hover:bg-[#D52518]">
-                        Hitung BMI Sekarang
-                        <span>→</span>
-                    </a>
-
+                </div>
                 </div>
             </section>
         @endif
