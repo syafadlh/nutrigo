@@ -1,44 +1,27 @@
+{{-- NutriGo Modern Profile Template --}}
 @extends('layouts.app')
 @section('title','Profil')
 @section('page-title','Profil Saya')
 
 @section('content')
-<div class="py-4 space-y-6">
+<div class="mx-auto max-w-7xl space-y-6 px-4 py-6 sm:px-6 lg:px-8">
 
-    {{-- ── HEADER PROFIL ────────────────────────────────────── --}}
-    <div class="bg-gradient-to-r from-ng-dark-green to-green-700 rounded-2xl p-6 text-white">
+    <div class="rounded-[32px] bg-gradient-to-r from-[#18542A] via-[#236937] to-[#9ABC05] p-8 text-white shadow-[0_20px_50px_rgba(24,84,42,0.18)]">
         <div class="flex items-center gap-5">
-            <div class="w-20 h-20 rounded-full bg-ng-yellow flex items-center justify-center text-3xl font-extrabold text-gray-800">
+            <div class="flex h-24 w-24 items-center justify-center rounded-full bg-[#FFC926] text-4xl font-black text-[#18542A] shadow-lg">
                 {{ strtoupper(substr($user->nickname ?? $user->name, 0, 1)) }}
             </div>
             <div>
-                <h2 class="text-2xl font-bold">{{ $user->nickname ?? $user->name }}</h2>
-                <p class="text-green-300 text-sm">{{ $user->email }}</p>
-                <p class="text-green-300 text-sm mt-1">📍 {{ $user->city }}, {{ $user->province }}</p>
-            </div>
-        </div>
-        <div class="grid grid-cols-3 gap-4 mt-5">
-            <div class="bg-green-800 rounded-xl p-3 text-center">
-                <p class="text-2xl font-extrabold text-ng-yellow">{{ $user->bmi ?? '—' }}</p>
-                <p class="text-green-300 text-xs">BMI</p>
-                <p class="text-xs text-white font-medium">{{ $bmiCategory }}</p>
-            </div>
-            <div class="bg-green-800 rounded-xl p-3 text-center">
-                <p class="text-2xl font-extrabold text-ng-yellow">{{ number_format($user->daily_calorie_needs ?? 0) }}</p>
-                <p class="text-green-300 text-xs">Kalori/hari</p>
-            </div>
-            <div class="bg-green-800 rounded-xl p-3 text-center">
-                <p class="text-2xl font-extrabold text-ng-yellow">{{ $user->getAge() }}</p>
-                <p class="text-green-300 text-xs">Tahun</p>
+                <h2 class="text-3xl font-black">{{ $user->nickname ?? $user->name }}</h2>
+                <p class="text-white/80">{{ $user->email }}</p>
+                <p class="text-white/80">📍 {{ $user->city }}, {{ $user->province }}</p>
             </div>
         </div>
     </div>
 
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-
-        {{-- ── DATA KESEHATAN ───────────────────────────────── --}}
-        <div class="card">
-            <h3 class="font-bold text-gray-800 mb-4">📊 Data Kesehatan</h3>
+    <div class="grid grid-cols-1 gap-6 xl:grid-cols-2">
+        <div class="rounded-[28px] bg-white p-6 shadow-[0_15px_35px_rgba(24,84,42,0.08)]">
+            <h3 class="mb-5 text-lg font-black text-[#18542A]">Data Kesehatan</h3>
             <form method="POST" action="{{ route('user.profile.health') }}">
                 @csrf
                 <div class="grid grid-cols-2 gap-4 mb-4">
@@ -95,24 +78,23 @@
                     <label class="text-xs font-semibold text-gray-600 block mb-2">Level Aktivitas</label>
                     <select name="activity_level" class="input-field">
                         @foreach([
-                            'sedentary'   => '💻 Ringan (duduk, kerja laptop)',
-                            'light'       => '🚶 Sedikit aktif (jalan kaki ringan)',
-                            'moderate'    => '🏃 Cukup aktif (olahraga 3-5x/minggu)',
-                            'active'      => '⚡ Aktif (olahraga intensif)',
-                            'very_active' => '🏋️ Sangat aktif (kerja fisik/gym rutin)',
+                            'sedentary'   => 'Ringan (duduk, kerja laptop)',
+                            'light'       => 'Sedikit aktif (jalan kaki ringan)',
+                            'moderate'    => 'Cukup aktif (olahraga 3-5x/minggu)',
+                            'active'      => 'Aktif (olahraga intensif)',
+                            'very_active' => 'Sangat aktif (kerja fisik/gym rutin)',
                         ] as $val => $label)
                             <option value="{{ $val }}" {{ $user->activity_level == $val ? 'selected' : '' }}>{{ $label }}</option>
                         @endforeach
                     </select>
                 </div>
 
-                <button class="btn-primary w-full">💾 Simpan Data Kesehatan</button>
+                <button class="btn-primary w-full">Simpan Data Kesehatan</button>
             </form>
         </div>
 
-        {{-- ── ALERGI MAKANAN ───────────────────────────────── --}}
-        <div class="card">
-            <h3 class="font-bold text-gray-800 mb-4">🚨 Alergi Makanan</h3>
+        <div class="rounded-[28px] bg-white p-6 shadow-[0_15px_35px_rgba(24,84,42,0.08)]">
+            <h3 class="mb-5 text-lg font-black text-[#18542A]">Alergi Makanan</h3>
             <form method="POST" action="{{ route('user.profile.allergies') }}">
                 @csrf
                 <div class="grid grid-cols-2 gap-2 mb-4">
@@ -133,19 +115,18 @@
                     <input type="text" name="custom_allergy" class="input-field"
                            placeholder="Cth: durian, pete..." value="">
                 </div>
-                <button class="btn-primary w-full">💾 Simpan Alergi</button>
+                <button class="btn-primary w-full">Simpan Alergi</button>
             </form>
         </div>
 
-        {{-- ── PENGINGAT MAKAN ───────────────────────────────── --}}
-        <div class="card">
-            <h3 class="font-bold text-gray-800 mb-4">⏰ Pengingat Makan</h3>
+        <div class="rounded-[28px] bg-white p-6 shadow-[0_15px_35px_rgba(24,84,42,0.08)]">
+            <h3 class="mb-5 text-lg font-black text-[#18542A]">Pengingat Makan</h3>
             <form method="POST" action="{{ route('user.profile.reminders') }}">
                 @csrf
                 @foreach([
-                    'breakfast' => ['label'=>'Sarapan','icon'=>'🌅'],
-                    'lunch'     => ['label'=>'Makan Siang','icon'=>'☀️'],
-                    'dinner'    => ['label'=>'Makan Malam','icon'=>'🌙'],
+                    'breakfast' => ['label'=>'Sarapan','icon'=>''],
+                    'lunch'     => ['label'=>'Makan Siang','icon'=>''],
+                    'dinner'    => ['label'=>'Makan Malam','icon'=>''],
                 ] as $type => $info)
                     @php $reminder = $reminders->where('meal_type', $type)->first(); @endphp
                     <div class="flex items-center gap-4 py-3 border-b border-gray-100 last:border-0">
@@ -164,13 +145,12 @@
                         </label>
                     </div>
                 @endforeach
-                <button class="btn-primary w-full mt-4">💾 Simpan Pengingat</button>
+                <button class="btn-primary w-full mt-4">Simpan Pengingat</button>
             </form>
         </div>
 
-        {{-- ── GANTI PASSWORD ─────────────────────────────────── --}}
-        <div class="card">
-            <h3 class="font-bold text-gray-800 mb-4">🔒 Ganti Password</h3>
+        <div class="rounded-[28px] bg-white p-6 shadow-[0_15px_35px_rgba(24,84,42,0.08)]">
+            <h3 class="mb-5 text-lg font-black text-[#18542A]">Ganti Password</h3>
             <form method="POST" action="{{ route('user.profile.password') }}">
                 @csrf
                 <div class="space-y-4">
@@ -188,7 +168,7 @@
                         <input type="password" name="password_confirmation" class="input-field" required>
                         @error('password')<p class="text-red-500 text-xs mt-1">{{ $message }}</p>@enderror
                     </div>
-                    <button class="btn-primary w-full">🔑 Ganti Password</button>
+                    <button class="btn-primary w-full">Ganti Password</button>
                 </div>
             </form>
         </div>
