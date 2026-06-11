@@ -519,26 +519,12 @@
 
                                         $isCompleted = (bool) $completedFoodHistory;
 
-                                        $isCurrent = !$isCompleted && $reminderAt->lessThanOrEqualTo($now);
-                                        $statusLabel = $isCompleted
-                                            ? 'Completed'
-                                            : ($isCurrent
-                                                ? 'Current Meal'
-                                                : 'Upcoming');
+                                        $statusLabel = $isCompleted ? 'Logged' : 'Belum Dikonfirmasi';
 
-                                        $selectedFood = $isCompleted ? $completedFoodHistory->food ?? null : $planned;
+                                        $selectedFood = $completedFoodHistory->food ?? $planned;
+                                        $stepDotClass = $isCompleted ? 'bg-[#9ABC05]' : 'bg-white';
 
-                                        $stepDotClass = $isCompleted
-                                            ? 'bg-[#9ABC05]'
-                                            : ($isCurrent
-                                                ? 'bg-[#F96015]'
-                                                : 'bg-white');
-
-                                        $stepCardClass = $isCompleted
-                                            ? 'bg-white opacity-90'
-                                            : ($isCurrent
-                                                ? 'bg-white border-[#18542A]/20'
-                                                : 'bg-white/80');
+                                        $stepCardClass = $isCompleted ? 'bg-white opacity-90' : 'bg-white';
 
                                         $stepTextClass = 'text-[#18542A]';
                                     @endphp
@@ -585,17 +571,9 @@
                                                     <div class="mt-2">
 
                                                         @php
-                                                            $statusBg = $isCompleted
-                                                                ? '#9ABC05'
-                                                                : ($isCurrent
-                                                                    ? '#F96015'
-                                                                    : '#F3E8CC');
+                                                            $statusBg = $isCompleted ? '#9ABC05' : '#F3E8CC';
 
-                                                            $statusFg = $isCompleted
-                                                                ? '#FFFFFF'
-                                                                : ($isCurrent
-                                                                    ? '#FFFFFF'
-                                                                    : '#18542A');
+                                                            $statusFg = $isCompleted ? '#FFFFFF' : '#18542A';
                                                         @endphp
 
                                                         <p class="inline-block rounded-full px-3 py-1 text-xs font-bold uppercase tracking-[0.12em]"
@@ -644,12 +622,17 @@
                                                             class="rounded-full bg-[#9ABC05] px-4 py-2 text-xs font-bold text-white">
                                                             ✓ Logged
                                                         </span>
-                                                    @endif
+                                                    @else
+                                                        <button type="button" data-meal="{{ $meal }}"
+                                                            class="confirm-planned-btn rounded-full bg-[#9ABC05] px-4 py-2 text-xs font-bold text-white hover:brightness-110">
+                                                            Konfirmasi Menu
+                                                        </button>
 
-                                                    <a href="{{ route('user.menu') }}?meal_type={{ $r->meal_type }}"
-                                                        class="rounded-full border-2 border-[#18542A] bg-white px-4 py-2 text-xs font-bold text-[#18542A] hover:bg-[#18542A] hover:text-white">
-                                                        Ganti Menu
-                                                    </a>
+                                                        <a href="{{ route('user.menu', ['meal_type' => $meal]) }}"
+                                                            class="rounded-full border-2 border-[#18542A] bg-white px-4 py-2 text-xs font-bold text-[#18542A] hover:bg-[#18542A] hover:text-white">
+                                                            Ganti Menu
+                                                        </a>
+                                                    @endif
 
                                                 </div>
 

@@ -1,4 +1,5 @@
 <?php
+
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\OnboardingController;
@@ -35,7 +36,7 @@ Route::middleware('guest')->group(function () {
     Route::get('/login',    [LoginController::class,    'showLoginForm'])->name('login');
     Route::post('/login',   [LoginController::class,    'login']);
     Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register');
-    Route::post('/register',[RegisterController::class, 'register']);
+    Route::post('/register', [RegisterController::class, 'register']);
 });
 Route::post('/logout', [LoginController::class, 'logout'])->name('logout')->middleware('auth');
 
@@ -50,14 +51,14 @@ Route::middleware('auth')->prefix('onboarding')->name('onboarding.')->group(func
 });
 
 // ── User Area ───────────────────────────────────────────
-Route::middleware(['auth','user.only','onboarding'])->prefix('dashboard')->name('user.')->group(function () {
+Route::middleware(['auth', 'user.only', 'onboarding'])->prefix('dashboard')->name('user.')->group(function () {
     Route::get('/menu',         [MenuController::class,      'index'])->name('menu');
     Route::post('/menu/regenerate', [MenuController::class,  'regenerate'])->name('menu.regenerate');
     Route::post('/menu/log',    [MenuController::class,      'logFood'])->name('menu.log');
     Route::post('/menu/select', [MenuController::class,      'selectMenu'])->name('menu.select');
     Route::post('/menu/confirm', [MenuController::class,     'confirmPlannedMenu'])->name('menu.confirm');
     Route::get('/foods/{food}', [MenuController::class, 'detail'])->name('menu.detail');
-    
+
     Route::get('/history',      [HistoryController::class,   'index'])->name('history');
     Route::delete('/history/{history}', [HistoryController::class, 'destroy'])->name('history.destroy');
     Route::get('/profile',      [ProfileController::class,   'index'])->name('profile');
@@ -67,6 +68,7 @@ Route::middleware(['auth','user.only','onboarding'])->prefix('dashboard')->name(
     Route::post('/profile/password',   [ProfileController::class, 'changePassword'])->name('profile.password');
     Route::get('/notifications',       [NotificationController::class, 'index'])->name('notifications');
     Route::post('/notifications/read', [NotificationController::class, 'markAllRead'])->name('notifications.read');
+    Route::post('/profile/location',[ProfileController::class, 'updateLocation'])->name('profile.location');
 });
 
 // ── API Routes (JSON) ────────────────────────────────────
@@ -75,13 +77,13 @@ Route::middleware(['auth'])->prefix('api')->name('api.')->group(function () {
     Route::post('menu/regenerate',          [Api\MenuApiController::class, 'regenerateMenu'])->name('menu.regenerate');
     Route::post('menu/log',                 [Api\MenuApiController::class, 'logFood'])->name('menu.log');
     Route::get('foods/search',              [Api\MenuApiController::class, 'searchFoods'])->name('foods.search');
-    Route::get('notifications/unread-count',[Api\MenuApiController::class, 'unreadCount'])->name('notif.count');
+    Route::get('notifications/unread-count', [Api\MenuApiController::class, 'unreadCount'])->name('notif.count');
 });
 
 // ── Admin Area ──────────────────────────────────────────
-Route::middleware(['auth','admin'])->prefix('admin')->name('admin.')->group(function () {
+Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(function () {
     Route::get('/',         [Admin\DashboardController::class,       'index'])->name('dashboard');
-    Route::resource('users',Admin\UserManagementController::class)->only(['index','store','show','update','destroy']);
-    Route::resource('foods',Admin\FoodController::class);
+    Route::resource('users', Admin\UserManagementController::class)->only(['index', 'store', 'show', 'update', 'destroy']);
+    Route::resource('foods', Admin\FoodController::class);
     Route::resource('articles', Admin\ArticleController::class);
 });

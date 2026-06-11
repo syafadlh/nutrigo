@@ -102,19 +102,10 @@ class MenuController extends Controller {
 
         // Sync langsung ke history agar perubahan menu otomatis terlihat di dashboard & history.
         // (History sebelumnya hanya bertambah saat user menekan tombol confirm di dashboard.)
-        $food = Food::find($request->food_id);
-        if ($food) {
-            // Optional: cegah duplikasi history jika user menekan pilih beberapa kali untuk meal yang sama.
-            FoodHistory::updateOrCreate([
-                'user_id' => $user->id,
-                'food_id' => $food->id,
-                'meal_type' => $request->meal_type,
-                'consumed_date' => $today,
-            ], [
-                'calories_consumed' => $food->calories,
-                'consumed_time' => now()->format('H:i:s'),
-            ]);
-        }
+return response()->json([
+    'success' => true,
+    'message' => 'Menu berhasil disimpan.'
+]);
 
         return response()->json(['success' => true, 'message' => 'Menu berhasil ditambahkan ke rencana dan dicatat ke riwayat.']);
     }
